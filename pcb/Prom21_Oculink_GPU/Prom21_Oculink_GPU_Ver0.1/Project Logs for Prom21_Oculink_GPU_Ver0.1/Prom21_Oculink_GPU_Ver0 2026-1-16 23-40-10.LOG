@@ -1,0 +1,1031 @@
+Removed Pin From Net: NetName=GND Pin=C2-1
+Removed Pin From Net: NetName=VBUS Pin=C2-2
+Removed Pin From Net: NetName=GND Pin=C3-1
+Removed Pin From Net: NetName=VBUS Pin=C3-2
+Removed Pin From Net: NetName=GND Pin=C?-1
+Removed Pin From Net: NetName=GND Pin=C?-1
+Removed Pin From Net: NetName=GND Pin=C?-1
+Removed Pin From Net: NetName=GND Pin=C?-1
+Removed Pin From Net: NetName=GND Pin=C?-1
+Removed Pin From Net: NetName=GND Pin=C?-1
+Removed Pin From Net: NetName=NetC?_1 Pin=C?-1
+Removed Pin From Net: NetName=SS0_RX_N Pin=C?-1
+Removed Pin From Net: NetName=SS0_RX_P Pin=C?-1
+Removed Pin From Net: NetName=SS0_TX_N Pin=C?-1
+Removed Pin From Net: NetName=SS0_TX_P Pin=C?-1
+Removed Pin From Net: NetName=SS1_RX_N Pin=C?-1
+Removed Pin From Net: NetName=SS1_RX_P Pin=C?-1
+Removed Pin From Net: NetName=SS1_TX_N Pin=C?-1
+Removed Pin From Net: NetName=SS1_TX_P Pin=C?-1
+Removed Pin From Net: NetName=USB1_RX1_N Pin=C?-1
+Removed Pin From Net: NetName=USB1_RX1_P Pin=C?-1
+Removed Pin From Net: NetName=USB1_TX1_N Pin=C?-1
+Removed Pin From Net: NetName=USB1_TX1_P Pin=C?-1
+Removed Pin From Net: NetName=NetC?_2 Pin=C?-2
+Removed Pin From Net: NetName=VCC12V Pin=C?-2
+Removed Pin From Net: NetName=VCC12V Pin=C?-2
+Removed Pin From Net: NetName=GND Pin=E?-2
+Removed Pin From Net: NetName=REFCLK_P Pin=J1-B12
+Removed Pin From Net: NetName=REFCLK_N Pin=J1-B13
+Removed Pin From Net: NetName=TX0_P Pin=J3-A16
+Removed Pin From Net: NetName=TX0_N Pin=J3-A17
+Removed Pin From Net: NetName=TX1_P Pin=J3-A21
+Removed Pin From Net: NetName=TX1_N Pin=J3-A22
+Removed Pin From Net: NetName=TX2_P Pin=J3-A25
+Removed Pin From Net: NetName=TX2_N Pin=J3-A26
+Removed Pin From Net: NetName=TX3_P Pin=J3-A29
+Removed Pin From Net: NetName=TX3_N Pin=J3-A30
+Removed Pin From Net: NetName=RX0_N Pin=J3-B14
+Removed Pin From Net: NetName=RX0_P Pin=J3-B15
+Removed Pin From Net: NetName=RX1_P Pin=J3-B19
+Removed Pin From Net: NetName=RX1_N Pin=J3-B20
+Removed Pin From Net: NetName=RX2_P Pin=J3-B23
+Removed Pin From Net: NetName=RX2_N Pin=J3-B24
+Removed Pin From Net: NetName=RX3_N Pin=J3-B27
+Removed Pin From Net: NetName=RX3_P Pin=J3-B28
+Removed Pin From Net: NetName=TX0_P Pin=J4-A16
+Removed Pin From Net: NetName=TX0_N Pin=J4-A17
+Removed Pin From Net: NetName=TX1_P Pin=J4-A21
+Removed Pin From Net: NetName=TX1_N Pin=J4-A22
+Removed Pin From Net: NetName=TX2_P Pin=J4-A25
+Removed Pin From Net: NetName=TX2_N Pin=J4-A26
+Removed Pin From Net: NetName=TX3_P Pin=J4-A29
+Removed Pin From Net: NetName=TX3_N Pin=J4-A30
+Removed Pin From Net: NetName=RX0_N Pin=J4-B14
+Removed Pin From Net: NetName=RX0_P Pin=J4-B15
+Removed Pin From Net: NetName=RX1_P Pin=J4-B19
+Removed Pin From Net: NetName=RX1_N Pin=J4-B20
+Removed Pin From Net: NetName=RX2_P Pin=J4-B23
+Removed Pin From Net: NetName=RX2_N Pin=J4-B24
+Removed Pin From Net: NetName=RX3_N Pin=J4-B27
+Removed Pin From Net: NetName=RX3_P Pin=J4-B28
+Removed Pin From Net: NetName=TX0_P Pin=J5-A16
+Removed Pin From Net: NetName=TX0_N Pin=J5-A17
+Removed Pin From Net: NetName=TX1_P Pin=J5-A21
+Removed Pin From Net: NetName=TX1_N Pin=J5-A22
+Removed Pin From Net: NetName=TX2_P Pin=J5-A25
+Removed Pin From Net: NetName=TX2_N Pin=J5-A26
+Removed Pin From Net: NetName=TX3_P Pin=J5-A29
+Removed Pin From Net: NetName=TX3_N Pin=J5-A30
+Removed Pin From Net: NetName=RX0_N Pin=J5-B14
+Removed Pin From Net: NetName=RX0_P Pin=J5-B15
+Removed Pin From Net: NetName=RX1_P Pin=J5-B19
+Removed Pin From Net: NetName=RX1_N Pin=J5-B20
+Removed Pin From Net: NetName=RX2_P Pin=J5-B23
+Removed Pin From Net: NetName=RX2_N Pin=J5-B24
+Removed Pin From Net: NetName=RX3_N Pin=J5-B27
+Removed Pin From Net: NetName=RX3_P Pin=J5-B28
+Removed Pin From Net: NetName=NetC?_1 Pin=L?-1
+Removed Pin From Net: NetName=GND Pin=R3-1
+Removed Pin From Net: NetName=GND Pin=R4-1
+Removed Pin From Net: NetName=VBUS Pin=R5-2
+Removed Pin From Net: NetName=GND Pin=R6-1
+Removed Pin From Net: NetName=GND Pin=R7-1
+Removed Pin From Net: NetName=NetR?_1 Pin=R?-1
+Removed Pin From Net: NetName=GND Pin=R?-2
+Removed Pin From Net: NetName=NetR?_1 Pin=R?-2
+Removed Pin From Net: NetName=NetR?_2 Pin=R?-2
+Removed Pin From Net: NetName=USB1_IN_CC1 Pin=U5-1
+Removed Pin From Net: NetName=USB1_TX1_P Pin=U5-2
+Removed Pin From Net: NetName=USB1_TX1_N Pin=U5-3
+Removed Pin From Net: NetName=USB1_TX2_N Pin=U5-4
+Removed Pin From Net: NetName=USB1_TX2_P Pin=U5-5
+Removed Pin From Net: NetName=USB1_RX1_P Pin=U5-6
+Removed Pin From Net: NetName=USB1_RX1_N Pin=U5-7
+Removed Pin From Net: NetName=USB1_RX2_N Pin=U5-8
+Removed Pin From Net: NetName=USB1_RX2_P Pin=U5-9
+Removed Pin From Net: NetName=SS0_RX_P Pin=U5-17
+Removed Pin From Net: NetName=SS0_RX_N Pin=U5-18
+Removed Pin From Net: NetName=GND Pin=U5-19
+Removed Pin From Net: NetName=SS0_TX_P Pin=U5-20
+Removed Pin From Net: NetName=SS0_TX_N Pin=U5-21
+Removed Pin From Net: NetName=VBUS Pin=U5-26
+Removed Pin From Net: NetName=VBUS Pin=U5-27
+Removed Pin From Net: NetName=USB1_IN_CC2 Pin=U5-28
+Removed Pin From Net: NetName=GND Pin=U5-29
+Removed Pin From Net: NetName=USB1_TX2_P Pin=U6-1
+Removed Pin From Net: NetName=USB1_TX2_N Pin=U6-2
+Removed Pin From Net: NetName=GND Pin=U6-3
+Removed Pin From Net: NetName=USB1_TX1_N Pin=U6-4
+Removed Pin From Net: NetName=USB1_TX1_P Pin=U6-5
+Removed Pin From Net: NetName=USB1_TX1_P Pin=U6-6
+Removed Pin From Net: NetName=USB1_TX1_N Pin=U6-7
+Removed Pin From Net: NetName=GND Pin=U6-8
+Removed Pin From Net: NetName=USB1_TX2_N Pin=U6-9
+Removed Pin From Net: NetName=USB1_TX2_P Pin=U6-10
+Removed Pin From Net: NetName=USB1_RX1_P Pin=U7-1
+Removed Pin From Net: NetName=USB1_RX1_N Pin=U7-2
+Removed Pin From Net: NetName=GND Pin=U7-3
+Removed Pin From Net: NetName=USB1_RX2_N Pin=U7-4
+Removed Pin From Net: NetName=USB1_RX2_P Pin=U7-5
+Removed Pin From Net: NetName=USB1_RX2_P Pin=U7-6
+Removed Pin From Net: NetName=USB1_RX2_N Pin=U7-7
+Removed Pin From Net: NetName=GND Pin=U7-8
+Removed Pin From Net: NetName=USB1_RX1_N Pin=U7-9
+Removed Pin From Net: NetName=USB1_RX1_P Pin=U7-10
+Removed Pin From Net: NetName=DPE_TX4_N Pin=U8-A8
+Removed Pin From Net: NetName=DPE_TX5_N Pin=U8-A9
+Removed Pin From Net: NetName=DPE_TX7_N Pin=U8-A12
+Removed Pin From Net: NetName=SS0_TX_P Pin=U8-AB12
+Removed Pin From Net: NetName=SS1_TX_N Pin=U8-AB13
+Removed Pin From Net: NetName=SS2_TX_P Pin=U8-AB15
+Removed Pin From Net: NetName=SS3_TX_P Pin=U8-AB16
+Removed Pin From Net: NetName=SS4_TX_P Pin=U8-AB18
+Removed Pin From Net: NetName=SS5_TX_P Pin=U8-AB19
+Removed Pin From Net: NetName=SS0_TX_N Pin=U8-AC12
+Removed Pin From Net: NetName=SS1_TX_P Pin=U8-AC13
+Removed Pin From Net: NetName=SS2_TX_N Pin=U8-AC15
+Removed Pin From Net: NetName=SS3_TX_N Pin=U8-AC16
+Removed Pin From Net: NetName=SS4_TX_N Pin=U8-AC18
+Removed Pin From Net: NetName=SS5_TX_N Pin=U8-AC19
+Removed Pin From Net: NetName=DPE_TX4_P Pin=U8-B8
+Removed Pin From Net: NetName=DPE_TX5_P Pin=U8-B9
+Removed Pin From Net: NetName=DPE_TX6_P Pin=U8-B11
+Removed Pin From Net: NetName=DPE_TX7_P Pin=U8-B12
+Removed Pin From Net: NetName=DPE_TX8_P Pin=U8-B14
+Removed Pin From Net: NetName=DPE_TX9_P Pin=U8-B15
+Removed Pin From Net: NetName=REFCLK_N Pin=U8-E22
+Removed Pin From Net: NetName=REFCLK_P Pin=U8-E23
+Removed Pin From Net: NetName=DPE_TX10_P Pin=U8-G22
+Removed Pin From Net: NetName=DPE_TX10_N Pin=U8-G23
+Removed Pin From Net: NetName=DPE_TX11_P Pin=U8-H22
+Removed Pin From Net: NetName=DPE_TX11_N Pin=U8-H23
+Removed Pin From Net: NetName=DPE_TX0_P Pin=U8-K22
+Removed Pin From Net: NetName=DPE_TX0_N Pin=U8-K23
+Removed Pin From Net: NetName=DPE_TX1_P Pin=U8-L22
+Removed Pin From Net: NetName=DPE_TX1_N Pin=U8-L23
+Removed Pin From Net: NetName=DPE_TX2_N Pin=U8-N23
+Removed Pin From Net: NetName=DPE_TX3_P Pin=U8-P22
+Removed Pin From Net: NetName=DPE_TX3_N Pin=U8-P23
+Removed Pin From Net: NetName=VCC1.05V_PGOOD Pin=U?-9
+Removed Pin From Net: NetName=GND Pin=U?-10
+Removed Pin From Net: NetName=VCC3.3V Pin=U?-12
+Removed Pin From Net: NetName=GND Pin=U?-13
+Removed Pin From Net: NetName=NetC?_2 Pin=U?-15
+Removed Pin From Net: NetName=GND Pin=U?-16
+Removed Pin From Net: NetName=GND Pin=U?-18
+Removed Pin From Net: NetName=NetR?_2 Pin=U?-22
+Removed Pin From Net: NetName=GND Pin=U?-41
+Removed Member From Class: ClassName=Connector Member=C1
+Removed Member From Class: ClassName=Prom21Core Member=C2
+Removed Member From Class: ClassName=Prom21Core Member=C3
+Removed Member From Class: ClassName=Prom21Core Member=R3
+Removed Member From Class: ClassName=Prom21Core Member=R4
+Removed Member From Class: ClassName=Prom21Core Member=R5
+Removed Member From Class: ClassName=Prom21Core Member=R6
+Removed Member From Class: ClassName=Prom21Core Member=R7
+Removed Member From Class: ClassName=Prom21Core Member=U5
+Removed Member From Class: ClassName=Prom21Core Member=U6
+Removed Member From Class: ClassName=Prom21Core Member=U7
+Change Component Footprint: Designator=C? Old Footprint=C0805_L New Footprint=C0603_L
+Change Component Footprint: Designator=C? Old Footprint=C0805_L New Footprint=C0603_L
+Change Component Footprint: Designator=C? Old Footprint=C0805_L New Footprint=C0603_L
+Change Footprint: Footprint Not Found TSOT-23-6_L2.9-W1.6-P0.95-LS2.8-BL
+Change Footprint: Footprint Not Found TSOT-23-6_L2.9-W1.6-P0.95-LS2.8-BL
+Change Footprint: Footprint Not Found TSOT-23-6_L2.9-W1.6-P0.95-LS2.8-BL
+Change Footprint: Footprint Not Found VQFN-20_L3.0-W3.0-P0.45-TL-EP_TI_RJE
+Change Footprint: Footprint Not Found VQFN-20_L3.0-W3.0-P0.45-TL-EP_TI_RJE
+Change Footprint: Footprint Not Found VQFN-20_L3.0-W3.0-P0.45-TL-EP_TI_RJE
+Change Component Footprint: Designator=U? Old Footprint=QFN40 6X6_L New Footprint=DIO_TPD4E02B04DQAR
+Change Component Comment : Designator=R? Old Comment=4.7K 1% New Comment=10K 1%
+Change Component Comment : Designator=R? Old Comment=4.7K 1% New Comment=10K 1%
+Change Component Comment : Designator=R? Old Comment=20K 1% New Comment=10K 1%
+Change Component Comment : Designator=C? Old Comment=22uF 6.3V New Comment=100nF 6.3V
+Change Component Comment : Designator=C? Old Comment=22uF 6.3V New Comment=100nF 6.3V
+Change Component Comment : Designator=C? Old Comment=22uF 6.3V New Comment=100nF 6.3V
+Change Component Comment : Designator=C? Old Comment=22uF 6.3V New Comment=100nF 6.3V
+Change Component Comment : Designator=C? Old Comment=22uF 25V New Comment=100nF 6.3V
+Change Component Comment : Designator=C? Old Comment=22uF 25V New Comment=100nF 6.3V
+Change Component Comment : Designator=R? Old Comment=27K 1% New Comment=10K 1%
+Change Component Comment : Designator=C? Old Comment=100nF 25V New Comment=100nF 6.3V
+Change Component Comment : Designator=U? Old Comment=IT8851 New Comment=TPS56C230RJER
+Change Component Comment : Designator=U? Old Comment=RTS5463B-GR New Comment=TPD4E02B04
+Change component parameters: Designator = "U?" ("U?"); Footprint = "QFN24 4x4_L"; UniqueID = "\FPHOSSVE" ("\FPHOSSVE")
+Change component parameters (AddParameter): Name = "AddInBom"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Channel ID"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ConvertToPcb"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://www.ti.com/cn/lit/gpn/tps56c230"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device"; Value = "TPS56C230RJER"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "FootprintName"; Value = "VQFN-20_L3.0-W3.0-P0.45-TL-EP_TI_RJE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Function"; Value = "降压型"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Group ID"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Input Voltage"; Value = "4.5V~18V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Part Class"; Value = "扩展库"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Name"; Value = "TPS56C230RJER"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "TI(德州仪器)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ManufacturerPart"; Value = "TPS56C230RJER"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ModelId"; Value = "a0d54152b84047e092cea8f9e273e78e"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ModelName"; Value = "VQFN-20_L3.0-W3.0-P0.45-TL-EP_TI_RJE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ModelTransform"; Value = "118.8974,118.8974,0,0,0,0,0,0,0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Outputs"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-40℃~+125℃@(TJ)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Output Current (Max)"; Value = "12A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Output Type"; Value = "可调"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Output Voltage"; Value = "600mV~5.5V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reuse Block"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Footprint"; Value = "VQFN-20-EP(3x3)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SupplierPart"; Value = "C1849534"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Switch tube (built-in/external)"; Value = "内置"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Switching Frequency"; Value = "500kHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Symbol"; Value = "TPS56C230RJER"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Synchronous Rectification"; Value = "是"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Topology"; Value = "降压式"; VariantName = "[No Variations]"
+Added Component: Designator=C?(C0603_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "材质"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=C?(C0402_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "材质"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=C?(C0603_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "材质"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=C?(C0603_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "材质"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=C?(C0402_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "材质"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=C?(C0402_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "材质"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=C?(C0402_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "材质"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=C?(C0402_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "材质"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=C?(C0402_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "材质"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=C?(C0603_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "材质"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=C?(C0603_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "材质"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=C?(C0603_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "材质"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=C?(C0603_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "材质"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=C?(C0603_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "材质"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=C?(C0603_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "材质"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=C?(C0603_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "材质"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=C?(C0603_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "材质"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=C?(C0603_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "材质"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=C?(C0603_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "材质"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=R?(R0402_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=R?(R0402_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=R?(R0402_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=R?(R0402_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=R?(R0402_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=R?(R0402_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=R?(R0402_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=R?(R0402_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=R?(R0402_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=R?(R0402_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=R?(R0402_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found SOT23-5
+Add Component: Footprint Not Found SOT23-5
+Added Component: Designator=U?(DIO_TPD4E02B04DQAR)
+Added Component: Designator=U?(MQFN-28_L4.5-W3.5-P0.40-BL-EP)
+Added Component: Designator=U?(DIO_TPD4E02B04DQAR)
+Added Component: Designator=U?(MQFN-28_L4.5-W3.5-P0.40-BL-EP)
+Added Component: Designator=U?(DIO_TPD4E02B04DQAR)
+Added Component: Designator=U?(DIO_TPD4E02B04DQAR)
+Added Component: Designator=U?(DIO_TPD4E02B04DQAR)
+Added Component: Designator=U?(MQFN-28_L4.5-W3.5-P0.40-BL-EP)
+Added Pin To Net: NetName=DPE_TX0_N Pin=C?-1
+Added Pin To Net: NetName=DPE_TX0_P Pin=C?-1
+Added Pin To Net: NetName=DPE_TX1_N Pin=C?-1
+Added Pin To Net: NetName=DPE_TX1_P Pin=C?-1
+Added Pin To Net: NetName=DPE_TX2_N Pin=C?-1
+Added Pin To Net: NetName=DPE_TX3_N Pin=C?-1
+Added Pin To Net: NetName=DPE_TX3_P Pin=C?-1
+Added Pin To Net: NetName=DPE_TX4_N Pin=C?-1
+Added Pin To Net: NetName=DPE_TX4_P Pin=C?-1
+Added Pin To Net: NetName=DPE_TX5_N Pin=C?-1
+Added Pin To Net: NetName=DPE_TX5_P Pin=C?-1
+Added Pin To Net: NetName=DPE_TX6_P Pin=C?-1
+Added Pin To Net: NetName=DPE_TX7_N Pin=C?-1
+Added Pin To Net: NetName=DPE_TX7_P Pin=C?-1
+Added Pin To Net: NetName=DPE_TX8_P Pin=C?-1
+Added Pin To Net: NetName=DPE_TX9_P Pin=C?-1
+Added Pin To Net: NetName=DPE_TX10_N Pin=C?-1
+Added Pin To Net: NetName=DPE_TX10_P Pin=C?-1
+Added Pin To Net: NetName=DPE_TX11_N Pin=C?-1
+Added Pin To Net: NetName=DPE_TX11_P Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=SS0_TX_N Pin=C?-1
+Added Pin To Net: NetName=SS0_TX_P Pin=C?-1
+Added Pin To Net: NetName=SS1_TX_N Pin=C?-1
+Added Pin To Net: NetName=SS1_TX_P Pin=C?-1
+Added Pin To Net: NetName=SS2_TX_N Pin=C?-1
+Added Pin To Net: NetName=SS2_TX_P Pin=C?-1
+Added Pin To Net: NetName=SS3_TX_N Pin=C?-1
+Added Pin To Net: NetName=SS3_TX_P Pin=C?-1
+Added Pin To Net: NetName=SS4_TX_N Pin=C?-1
+Added Pin To Net: NetName=SS4_TX_P Pin=C?-1
+Added Pin To Net: NetName=SS5_TX_N Pin=C?-1
+Added Pin To Net: NetName=SS5_TX_P Pin=C?-1
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=VBUS Pin=C?-2
+Added Pin To Net: NetName=VBUS Pin=C?-2
+Added Pin To Net: NetName=VBUS Pin=C?-2
+Added Pin To Net: NetName=VBUS Pin=C?-2
+Added Pin To Net: NetName=VBUS Pin=C?-2
+Added Pin To Net: NetName=VBUS Pin=C?-2
+Add Pin To Net: Unknown Pin: Pin L2-1
+Add Pin To Net: Unknown Pin: Pin L2-2
+Add Pin To Net: Unknown Pin: Pin L3-1
+Add Pin To Net: Unknown Pin: Pin L3-2
+Add Pin To Net: Unknown Pin: Pin L5-1
+Add Pin To Net: Unknown Pin: Pin L5-2
+Added Pin To Net: NetName=NetC?_2 Pin=L?-1
+Added Pin To Net: NetName=VCC5.0V Pin=L?-2
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Pin To Net: NetName=NetR?_1 Pin=R?-2
+Added Pin To Net: NetName=NetR?_2 Pin=R?-2
+Added Pin To Net: NetName=NetR?_2 Pin=R?-2
+Added Pin To Net: NetName=VBUS Pin=R?-2
+Added Pin To Net: NetName=VBUS Pin=R?-2
+Added Pin To Net: NetName=VBUS Pin=R?-2
+Add Pin To Net: Unknown Pin: Pin U10-11
+Add Pin To Net: Unknown Pin: Pin U10-12
+Add Pin To Net: Unknown Pin: Pin U10-13
+Add Pin To Net: Unknown Pin: Pin U10-14
+Add Pin To Net: Unknown Pin: Pin U10-15
+Add Pin To Net: Unknown Pin: Pin U10-16
+Add Pin To Net: Unknown Pin: Pin U10-17
+Add Pin To Net: Unknown Pin: Pin U10-18
+Add Pin To Net: Unknown Pin: Pin U10-19
+Add Pin To Net: Unknown Pin: Pin U10-20
+Add Pin To Net: Unknown Pin: Pin U10-21
+Add Pin To Net: Unknown Pin: Pin U13-11
+Add Pin To Net: Unknown Pin: Pin U13-12
+Add Pin To Net: Unknown Pin: Pin U13-13
+Add Pin To Net: Unknown Pin: Pin U13-14
+Add Pin To Net: Unknown Pin: Pin U13-15
+Add Pin To Net: Unknown Pin: Pin U13-16
+Add Pin To Net: Unknown Pin: Pin U13-17
+Add Pin To Net: Unknown Pin: Pin U13-18
+Add Pin To Net: Unknown Pin: Pin U13-19
+Add Pin To Net: Unknown Pin: Pin U13-20
+Add Pin To Net: Unknown Pin: Pin U13-21
+Add Pin To Net: Unknown Pin: Pin U16-1
+Add Pin To Net: Unknown Pin: Pin U16-2
+Add Pin To Net: Unknown Pin: Pin U16-3
+Add Pin To Net: Unknown Pin: Pin U16-5
+Add Pin To Net: Unknown Pin: Pin U17-1
+Add Pin To Net: Unknown Pin: Pin U17-2
+Add Pin To Net: Unknown Pin: Pin U17-3
+Add Pin To Net: Unknown Pin: Pin U17-5
+Added Pin To Net: NetName=NetC?_1 Pin=U?-1
+Added Pin To Net: NetName=USB1_IN_CC1 Pin=U?-1
+Added Pin To Net: NetName=USB1_IN_CC1 Pin=U?-1
+Added Pin To Net: NetName=USB1_IN_CC1 Pin=U?-1
+Added Pin To Net: NetName=USB1_RX1_P Pin=U?-1
+Added Pin To Net: NetName=USB1_TX2_P Pin=U?-1
+Added Pin To Net: NetName=USB1_RX1_N Pin=U?-2
+Added Pin To Net: NetName=USB1_TX1_P Pin=U?-2
+Added Pin To Net: NetName=USB1_TX2_N Pin=U?-2
+Added Pin To Net: NetName=VCC12V Pin=U?-2
+Added Pin To Net: NetName=GND Pin=U?-3
+Added Pin To Net: NetName=GND Pin=U?-3
+Added Pin To Net: NetName=GND Pin=U?-3
+Added Pin To Net: NetName=GND Pin=U?-3
+Added Pin To Net: NetName=GND Pin=U?-3
+Added Pin To Net: NetName=GND Pin=U?-3
+Added Pin To Net: NetName=USB1_TX1_N Pin=U?-3
+Added Pin To Net: NetName=VCC12V Pin=U?-3
+Added Pin To Net: NetName=USB1_RX2_N Pin=U?-4
+Added Pin To Net: NetName=USB1_TX1_N Pin=U?-4
+Added Pin To Net: NetName=USB1_TX2_N Pin=U?-4
+Added Pin To Net: NetName=VCC12V Pin=U?-4
+Added Pin To Net: NetName=USB1_RX2_P Pin=U?-5
+Added Pin To Net: NetName=USB1_TX1_P Pin=U?-5
+Added Pin To Net: NetName=USB1_TX2_P Pin=U?-5
+Added Pin To Net: NetName=VCC12V Pin=U?-5
+Added Pin To Net: NetName=NetC?_2 Pin=U?-6
+Added Pin To Net: NetName=USB1_RX1_P Pin=U?-6
+Added Pin To Net: NetName=USB1_RX2_P Pin=U?-6
+Added Pin To Net: NetName=USB1_TX1_P Pin=U?-6
+Added Pin To Net: NetName=GND Pin=U?-7
+Added Pin To Net: NetName=USB1_RX1_N Pin=U?-7
+Added Pin To Net: NetName=USB1_RX2_N Pin=U?-7
+Added Pin To Net: NetName=USB1_TX1_N Pin=U?-7
+Added Pin To Net: NetName=GND Pin=U?-8
+Added Pin To Net: NetName=GND Pin=U?-8
+Added Pin To Net: NetName=GND Pin=U?-8
+Added Pin To Net: NetName=GND Pin=U?-8
+Added Pin To Net: NetName=GND Pin=U?-8
+Added Pin To Net: NetName=GND Pin=U?-8
+Added Pin To Net: NetName=GND Pin=U?-8
+Added Pin To Net: NetName=USB1_RX2_N Pin=U?-8
+Added Pin To Net: NetName=USB1_RX1_N Pin=U?-9
+Added Pin To Net: NetName=USB1_RX2_P Pin=U?-9
+Added Pin To Net: NetName=USB1_TX2_N Pin=U?-9
+Added Pin To Net: NetName=VCC1.05V_PGOOD Pin=U?-9
+Added Pin To Net: NetName=GND Pin=U?-10
+Added Pin To Net: NetName=USB1_RX1_P Pin=U?-10
+Added Pin To Net: NetName=USB1_TX2_P Pin=U?-10
+Added Pin To Net: NetName=VCC3.3V Pin=U?-12
+Added Pin To Net: NetName=GND Pin=U?-13
+Added Pin To Net: NetName=NetR?_1 Pin=U?-14
+Added Pin To Net: NetName=NetR?_2 Pin=U?-15
+Added Pin To Net: NetName=GND Pin=U?-16
+Added Pin To Net: NetName=SS0_RX_P Pin=U?-17
+Added Pin To Net: NetName=SS1_RX_P Pin=U?-17
+Added Pin To Net: NetName=SS2_RX_P Pin=U?-17
+Added Pin To Net: NetName=GND Pin=U?-18
+Added Pin To Net: NetName=SS0_RX_N Pin=U?-18
+Added Pin To Net: NetName=SS1_RX_N Pin=U?-18
+Added Pin To Net: NetName=SS2_RX_N Pin=U?-18
+Added Pin To Net: NetName=GND Pin=U?-19
+Added Pin To Net: NetName=GND Pin=U?-19
+Added Pin To Net: NetName=GND Pin=U?-19
+Added Pin To Net: NetName=NetC?_2 Pin=U?-19
+Added Pin To Net: NetName=NetC?_2 Pin=U?-20
+Added Pin To Net: NetName=SS0_TX_P Pin=U?-20
+Added Pin To Net: NetName=SS1_TX_P Pin=U?-20
+Added Pin To Net: NetName=SS2_TX_P Pin=U?-20
+Added Pin To Net: NetName=GND Pin=U?-21
+Added Pin To Net: NetName=SS0_TX_N Pin=U?-21
+Added Pin To Net: NetName=SS1_TX_N Pin=U?-21
+Added Pin To Net: NetName=SS2_TX_N Pin=U?-21
+Added Pin To Net: NetName=VBUS Pin=U?-26
+Added Pin To Net: NetName=VBUS Pin=U?-26
+Added Pin To Net: NetName=VBUS Pin=U?-26
+Added Pin To Net: NetName=VBUS Pin=U?-27
+Added Pin To Net: NetName=VBUS Pin=U?-27
+Added Pin To Net: NetName=VBUS Pin=U?-27
+Added Pin To Net: NetName=USB1_IN_CC2 Pin=U?-28
+Added Pin To Net: NetName=USB1_IN_CC2 Pin=U?-28
+Added Pin To Net: NetName=USB1_IN_CC2 Pin=U?-28
+Added Pin To Net: NetName=GND Pin=U?-29
+Added Pin To Net: NetName=GND Pin=U?-29
+Added Pin To Net: NetName=GND Pin=U?-29
+Change Net Name : Old Net Name=RX0_N New Net Name=UPE_RX0_N
+Change Net Name : Old Net Name=RX0_P New Net Name=UPE_RX0_P
+Change Net Name : Old Net Name=RX1_N New Net Name=UPE_RX1_N
+Change Net Name : Old Net Name=RX1_P New Net Name=UPE_RX1_P
+Change Net Name : Old Net Name=RX2_N New Net Name=UPE_RX2_N
+Change Net Name : Old Net Name=RX2_P New Net Name=UPE_RX2_P
+Change Net Name : Old Net Name=RX3_N New Net Name=UPE_RX3_N
+Change Net Name : Old Net Name=RX3_P New Net Name=UPE_RX3_P
+Change Net Name : Old Net Name=TX0_N New Net Name=UPE_TX0_N
+Change Net Name : Old Net Name=TX0_P New Net Name=UPE_TX0_P
+Change Net Name : Old Net Name=TX1_N New Net Name=UPE_TX1_N
+Change Net Name : Old Net Name=TX1_P New Net Name=UPE_TX1_P
+Change Net Name : Old Net Name=TX2_N New Net Name=UPE_TX2_N
+Change Net Name : Old Net Name=TX2_P New Net Name=UPE_TX2_P
+Change Net Name : Old Net Name=TX3_N New Net Name=UPE_TX3_N
+Change Net Name : Old Net Name=TX3_P New Net Name=UPE_TX3_P
+Change Net Name : Old Net Name=USB1_RX0_N New Net Name=DPE_TX8_N
+Change Net Name : Old Net Name=USB1_RX0_P New Net Name=DPE_TX2_P
+Change Net Name : Old Net Name=USB1_TX0_N New Net Name=DPE_TX9_N
+Change Net Name : Old Net Name=USB1_TX0_P New Net Name=DPE_TX6_N
+Added Pin To Net: NetName=CAP_DPE_TX0_N Pin=C?-2
+Added Pin To Net: NetName=CAP_DPE_TX0_N Pin=C?-2
+Added Pin To Net: NetName=CAP_DPE_TX0_N Pin=U8-A12
+Added Pin To Net: NetName=CAP_DPE_TX0_N Pin=U8-K23
+Added Net: Name=CAP_DPE_TX0_N
+Added Pin To Net: NetName=CAP_DPE_TX0_P Pin=C?-2
+Added Pin To Net: NetName=CAP_DPE_TX0_P Pin=U8-K22
+Added Net: Name=CAP_DPE_TX0_P
+Added Pin To Net: NetName=CAP_DPE_TX1_N Pin=C?-2
+Added Pin To Net: NetName=CAP_DPE_TX1_N Pin=U8-L23
+Added Net: Name=CAP_DPE_TX1_N
+Added Pin To Net: NetName=CAP_DPE_TX1_P Pin=C?-2
+Added Pin To Net: NetName=CAP_DPE_TX1_P Pin=U8-L22
+Added Net: Name=CAP_DPE_TX1_P
+Added Pin To Net: NetName=CAP_DPE_TX2_N Pin=C?-2
+Added Pin To Net: NetName=CAP_DPE_TX2_N Pin=U8-N23
+Added Net: Name=CAP_DPE_TX2_N
+Added Pin To Net: NetName=CAP_DPE_TX2_P Pin=C?-2
+Added Pin To Net: NetName=CAP_DPE_TX2_P Pin=U8-N22
+Added Net: Name=CAP_DPE_TX2_P
+Added Pin To Net: NetName=CAP_DPE_TX3_N Pin=C?-2
+Added Pin To Net: NetName=CAP_DPE_TX3_N Pin=U8-P23
+Added Net: Name=CAP_DPE_TX3_N
+Added Pin To Net: NetName=CAP_DPE_TX3_P Pin=C?-2
+Added Pin To Net: NetName=CAP_DPE_TX3_P Pin=U8-P22
+Added Net: Name=CAP_DPE_TX3_P
+Added Pin To Net: NetName=CAP_DPE_TX4_N Pin=C?-2
+Added Pin To Net: NetName=CAP_DPE_TX4_N Pin=U8-A8
+Added Net: Name=CAP_DPE_TX4_N
+Added Pin To Net: NetName=CAP_DPE_TX4_P Pin=C?-2
+Added Pin To Net: NetName=CAP_DPE_TX4_P Pin=U8-B8
+Added Net: Name=CAP_DPE_TX4_P
+Added Pin To Net: NetName=CAP_DPE_TX5_N Pin=C?-2
+Added Pin To Net: NetName=CAP_DPE_TX5_N Pin=U8-A9
+Added Net: Name=CAP_DPE_TX5_N
+Added Pin To Net: NetName=CAP_DPE_TX5_P Pin=C?-2
+Added Pin To Net: NetName=CAP_DPE_TX5_P Pin=U8-B9
+Added Net: Name=CAP_DPE_TX5_P
+Added Pin To Net: NetName=CAP_DPE_TX6_N Pin=C?-2
+Added Pin To Net: NetName=CAP_DPE_TX6_N Pin=U8-A11
+Added Net: Name=CAP_DPE_TX6_N
+Added Pin To Net: NetName=CAP_DPE_TX6_P Pin=C?-2
+Added Pin To Net: NetName=CAP_DPE_TX6_P Pin=U8-B11
+Added Net: Name=CAP_DPE_TX6_P
+Added Pin To Net: NetName=CAP_DPE_TX7_P Pin=C?-2
+Added Pin To Net: NetName=CAP_DPE_TX7_P Pin=U8-B12
+Added Net: Name=CAP_DPE_TX7_P
+Added Pin To Net: NetName=CAP_DPE_TX8_N Pin=C?-2
+Added Pin To Net: NetName=CAP_DPE_TX8_N Pin=U8-A14
+Added Net: Name=CAP_DPE_TX8_N
+Added Pin To Net: NetName=CAP_DPE_TX8_P Pin=C?-2
+Added Pin To Net: NetName=CAP_DPE_TX8_P Pin=U8-B14
+Added Net: Name=CAP_DPE_TX8_P
+Added Pin To Net: NetName=CAP_DPE_TX9_N Pin=C?-2
+Added Pin To Net: NetName=CAP_DPE_TX9_N Pin=U8-A15
+Added Net: Name=CAP_DPE_TX9_N
+Added Pin To Net: NetName=CAP_DPE_TX9_P Pin=C?-2
+Added Pin To Net: NetName=CAP_DPE_TX9_P Pin=U8-B15
+Added Net: Name=CAP_DPE_TX9_P
+Added Pin To Net: NetName=CAP_DPE_TX10_N Pin=C?-2
+Added Pin To Net: NetName=CAP_DPE_TX10_N Pin=U8-G23
+Added Net: Name=CAP_DPE_TX10_N
+Added Pin To Net: NetName=CAP_DPE_TX10_P Pin=C?-2
+Added Pin To Net: NetName=CAP_DPE_TX10_P Pin=U8-G22
+Added Net: Name=CAP_DPE_TX10_P
+Added Pin To Net: NetName=CAP_DPE_TX11_N Pin=C?-2
+Added Pin To Net: NetName=CAP_DPE_TX11_N Pin=U8-H23
+Added Net: Name=CAP_DPE_TX11_N
+Added Pin To Net: NetName=CAP_DPE_TX11_P Pin=C?-2
+Added Pin To Net: NetName=CAP_DPE_TX11_P Pin=U8-H22
+Added Net: Name=CAP_DPE_TX11_P
+Added Pin To Net: NetName=Cap_SS0_TX_N Pin=C?-2
+Added Pin To Net: NetName=Cap_SS0_TX_N Pin=U8-AC12
+Added Net: Name=Cap_SS0_TX_N
+Added Pin To Net: NetName=Cap_SS0_TX_P Pin=C?-2
+Added Pin To Net: NetName=Cap_SS0_TX_P Pin=U8-AB12
+Added Net: Name=Cap_SS0_TX_P
+Added Pin To Net: NetName=Cap_SS1_TX_N Pin=C?-2
+Added Pin To Net: NetName=Cap_SS1_TX_N Pin=U8-AB13
+Added Net: Name=Cap_SS1_TX_N
+Added Pin To Net: NetName=Cap_SS1_TX_P Pin=C?-2
+Added Pin To Net: NetName=Cap_SS1_TX_P Pin=U8-AC13
+Added Net: Name=Cap_SS1_TX_P
+Added Pin To Net: NetName=Cap_SS2_TX_N Pin=C?-2
+Added Pin To Net: NetName=Cap_SS2_TX_N Pin=U8-AC15
+Added Net: Name=Cap_SS2_TX_N
+Added Pin To Net: NetName=Cap_SS2_TX_P Pin=C?-2
+Added Pin To Net: NetName=Cap_SS2_TX_P Pin=U8-AB15
+Added Net: Name=Cap_SS2_TX_P
+Added Pin To Net: NetName=Cap_SS3_TX_N Pin=C?-2
+Added Pin To Net: NetName=Cap_SS3_TX_N Pin=U8-AC16
+Added Net: Name=Cap_SS3_TX_N
+Added Pin To Net: NetName=Cap_SS3_TX_P Pin=C?-2
+Added Pin To Net: NetName=Cap_SS3_TX_P Pin=U8-AB16
+Added Net: Name=Cap_SS3_TX_P
+Added Pin To Net: NetName=Cap_SS4_TX_N Pin=C?-2
+Added Pin To Net: NetName=Cap_SS4_TX_N Pin=U8-AC18
+Added Net: Name=Cap_SS4_TX_N
+Added Pin To Net: NetName=Cap_SS4_TX_P Pin=C?-2
+Added Pin To Net: NetName=Cap_SS4_TX_P Pin=U8-AB18
+Added Net: Name=Cap_SS4_TX_P
+Added Pin To Net: NetName=Cap_SS5_TX_N Pin=C?-2
+Added Pin To Net: NetName=Cap_SS5_TX_N Pin=U8-AC19
+Added Net: Name=Cap_SS5_TX_N
+Added Pin To Net: NetName=Cap_SS5_TX_P Pin=C?-2
+Added Pin To Net: NetName=Cap_SS5_TX_P Pin=U8-AB19
+Added Net: Name=Cap_SS5_TX_P
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Added Pin To Net: NetName=RX0_N Pin=J3-B14
+Added Pin To Net: NetName=RX0_N Pin=J4-B14
+Added Pin To Net: NetName=RX0_N Pin=J5-B14
+Added Net: Name=RX0_N
+Added Pin To Net: NetName=RX0_P Pin=J3-B15
+Added Pin To Net: NetName=RX0_P Pin=J4-B15
+Added Pin To Net: NetName=RX0_P Pin=J5-B15
+Added Net: Name=RX0_P
+Added Pin To Net: NetName=RX1_N Pin=J3-B20
+Added Pin To Net: NetName=RX1_N Pin=J4-B20
+Added Pin To Net: NetName=RX1_N Pin=J5-B20
+Added Net: Name=RX1_N
+Added Pin To Net: NetName=RX1_P Pin=J3-B19
+Added Pin To Net: NetName=RX1_P Pin=J4-B19
+Added Pin To Net: NetName=RX1_P Pin=J5-B19
+Added Net: Name=RX1_P
+Added Pin To Net: NetName=RX2_N Pin=J3-B24
+Added Pin To Net: NetName=RX2_N Pin=J4-B24
+Added Pin To Net: NetName=RX2_N Pin=J5-B24
+Added Net: Name=RX2_N
+Added Pin To Net: NetName=RX2_P Pin=J3-B23
+Added Pin To Net: NetName=RX2_P Pin=J4-B23
+Added Pin To Net: NetName=RX2_P Pin=J5-B23
+Added Net: Name=RX2_P
+Added Pin To Net: NetName=RX3_N Pin=J3-B27
+Added Pin To Net: NetName=RX3_N Pin=J4-B27
+Added Pin To Net: NetName=RX3_N Pin=J5-B27
+Added Net: Name=RX3_N
+Added Pin To Net: NetName=RX3_P Pin=J3-B28
+Added Pin To Net: NetName=RX3_P Pin=J4-B28
+Added Pin To Net: NetName=RX3_P Pin=J5-B28
+Added Net: Name=RX3_P
+Added Pin To Net: NetName=TX0_N Pin=J3-A17
+Added Pin To Net: NetName=TX0_N Pin=J4-A17
+Added Pin To Net: NetName=TX0_N Pin=J5-A17
+Added Net: Name=TX0_N
+Added Pin To Net: NetName=TX0_P Pin=J3-A16
+Added Pin To Net: NetName=TX0_P Pin=J4-A16
+Added Pin To Net: NetName=TX0_P Pin=J5-A16
+Added Net: Name=TX0_P
+Added Pin To Net: NetName=TX1_N Pin=J3-A22
+Added Pin To Net: NetName=TX1_N Pin=J4-A22
+Added Pin To Net: NetName=TX1_N Pin=J5-A22
+Added Net: Name=TX1_N
+Added Pin To Net: NetName=TX1_P Pin=J3-A21
+Added Pin To Net: NetName=TX1_P Pin=J4-A21
+Added Pin To Net: NetName=TX1_P Pin=J5-A21
+Added Net: Name=TX1_P
+Added Pin To Net: NetName=TX2_N Pin=J3-A26
+Added Pin To Net: NetName=TX2_N Pin=J4-A26
+Added Pin To Net: NetName=TX2_N Pin=J5-A26
+Added Net: Name=TX2_N
+Added Pin To Net: NetName=TX2_P Pin=J3-A25
+Added Pin To Net: NetName=TX2_P Pin=J4-A25
+Added Pin To Net: NetName=TX2_P Pin=J5-A25
+Added Net: Name=TX2_P
+Added Pin To Net: NetName=TX3_N Pin=J3-A30
+Added Pin To Net: NetName=TX3_N Pin=J4-A30
+Added Pin To Net: NetName=TX3_N Pin=J5-A30
+Added Net: Name=TX3_N
+Added Pin To Net: NetName=TX3_P Pin=J3-A29
+Added Pin To Net: NetName=TX3_P Pin=J4-A29
+Added Pin To Net: NetName=TX3_P Pin=J5-A29
+Added Net: Name=TX3_P
+Added Pin To Net: NetName=UPE_REFCLK_N Pin=U8-E22
+Added Net: Name=UPE_REFCLK_N
+Added Pin To Net: NetName=UPE_REFCLK_P Pin=J1-B12
+Added Pin To Net: NetName=UPE_REFCLK_P Pin=J1-B13
+Added Pin To Net: NetName=UPE_REFCLK_P Pin=U8-E23
+Added Net: Name=UPE_REFCLK_P
+Added Pin To Net: NetName=USB0_RX1_N Pin=U?-2
+Added Pin To Net: NetName=USB0_RX1_N Pin=U?-7
+Added Pin To Net: NetName=USB0_RX1_N Pin=U?-9
+Added Net: Name=USB0_RX1_N
+Added Pin To Net: NetName=USB0_RX1_P Pin=U?-1
+Added Pin To Net: NetName=USB0_RX1_P Pin=U?-6
+Added Pin To Net: NetName=USB0_RX1_P Pin=U?-10
+Added Net: Name=USB0_RX1_P
+Added Pin To Net: NetName=USB0_RX2_N Pin=U?-4
+Added Pin To Net: NetName=USB0_RX2_N Pin=U?-7
+Added Pin To Net: NetName=USB0_RX2_N Pin=U?-8
+Added Net: Name=USB0_RX2_N
+Added Pin To Net: NetName=USB0_RX2_P Pin=U?-5
+Added Pin To Net: NetName=USB0_RX2_P Pin=U?-6
+Added Pin To Net: NetName=USB0_RX2_P Pin=U?-9
+Added Net: Name=USB0_RX2_P
+Added Pin To Net: NetName=USB0_TX1_N Pin=U?-3
+Added Pin To Net: NetName=USB0_TX1_N Pin=U?-4
+Added Pin To Net: NetName=USB0_TX1_N Pin=U?-7
+Added Net: Name=USB0_TX1_N
+Added Pin To Net: NetName=USB0_TX1_P Pin=U?-2
+Added Pin To Net: NetName=USB0_TX1_P Pin=U?-5
+Added Pin To Net: NetName=USB0_TX1_P Pin=U?-6
+Added Net: Name=USB0_TX1_P
+Added Pin To Net: NetName=USB0_TX2_N Pin=U?-2
+Added Pin To Net: NetName=USB0_TX2_N Pin=U?-4
+Added Pin To Net: NetName=USB0_TX2_N Pin=U?-9
+Added Net: Name=USB0_TX2_N
+Added Pin To Net: NetName=USB0_TX2_P Pin=U?-1
+Added Pin To Net: NetName=USB0_TX2_P Pin=U?-5
+Added Pin To Net: NetName=USB0_TX2_P Pin=U?-10
+Added Net: Name=USB0_TX2_P
+Added Pin To Net: NetName=USB2_RX1_N Pin=U?-2
+Added Pin To Net: NetName=USB2_RX1_N Pin=U?-7
+Added Pin To Net: NetName=USB2_RX1_N Pin=U?-9
+Added Net: Name=USB2_RX1_N
+Added Pin To Net: NetName=USB2_RX1_P Pin=U?-1
+Added Pin To Net: NetName=USB2_RX1_P Pin=U?-6
+Added Pin To Net: NetName=USB2_RX1_P Pin=U?-10
+Added Net: Name=USB2_RX1_P
+Added Pin To Net: NetName=USB2_RX2_N Pin=U?-4
+Added Pin To Net: NetName=USB2_RX2_N Pin=U?-7
+Added Pin To Net: NetName=USB2_RX2_N Pin=U?-8
+Added Net: Name=USB2_RX2_N
+Added Pin To Net: NetName=USB2_RX2_P Pin=U?-5
+Added Pin To Net: NetName=USB2_RX2_P Pin=U?-6
+Added Pin To Net: NetName=USB2_RX2_P Pin=U?-9
+Added Net: Name=USB2_RX2_P
+Added Pin To Net: NetName=USB2_TX1_N Pin=U?-3
+Added Pin To Net: NetName=USB2_TX1_N Pin=U?-4
+Added Pin To Net: NetName=USB2_TX1_N Pin=U?-7
+Added Net: Name=USB2_TX1_N
+Added Pin To Net: NetName=USB2_TX1_P Pin=U?-2
+Added Pin To Net: NetName=USB2_TX1_P Pin=U?-5
+Added Pin To Net: NetName=USB2_TX1_P Pin=U?-6
+Added Net: Name=USB2_TX1_P
+Added Pin To Net: NetName=USB2_TX2_N Pin=U?-2
+Added Pin To Net: NetName=USB2_TX2_N Pin=U?-4
+Added Pin To Net: NetName=USB2_TX2_N Pin=U?-9
+Added Net: Name=USB2_TX2_N
+Added Pin To Net: NetName=USB2_TX2_P Pin=U?-1
+Added Pin To Net: NetName=USB2_TX2_P Pin=U?-5
+Added Pin To Net: NetName=USB2_TX2_P Pin=U?-10
+Added Net: Name=USB2_TX2_P
+Added Class: Name=PCIE_DPE-A
+Added Class: Name=PCIE_DPE-B
+Added Class: Name=PCIE_DPE-C
+Added Class: Name=PCIE_UPE
+Added Differential Pair: Name=CAP_DPE_TX0
+Added Differential Pair: Name=CAP_DPE_TX1
+Added Differential Pair: Name=CAP_DPE_TX2
+Added Differential Pair: Name=CAP_DPE_TX3
+Added Differential Pair: Name=CAP_DPE_TX4
+Added Differential Pair: Name=CAP_DPE_TX5
+Added Differential Pair: Name=CAP_DPE_TX6
+Add Differential Pair: Number of nets in differential pair CAP_DPE_TX7 is 1 instead of 2
+Added Differential Pair: Name=CAP_DPE_TX8
+Added Differential Pair: Name=CAP_DPE_TX9
+Added Differential Pair: Name=CAP_DPE_TX10
+Added Differential Pair: Name=CAP_DPE_TX11
+Added Differential Pair: Name=Cap_SS0_TX
+Added Differential Pair: Name=Cap_SS1_TX
+Added Differential Pair: Name=Cap_SS2_TX
+Added Differential Pair: Name=Cap_SS3_TX
+Added Differential Pair: Name=Cap_SS4_TX
+Added Differential Pair: Name=Cap_SS5_TX
+Added Differential Pair: Name=DPE_RX0
+Added Differential Pair: Name=DPE_RX1
+Added Differential Pair: Name=DPE_RX2
+Added Differential Pair: Name=DPE_RX3
+Added Differential Pair: Name=DPE_RX4
+Added Differential Pair: Name=DPE_RX5
+Add Differential Pair: Number of nets in differential pair DPE_RX6 is 1 instead of 2
+Added Differential Pair: Name=DPE_RX7
+Added Differential Pair: Name=DPE_RX8
+Add Differential Pair: Number of nets in differential pair DPE_RX9 is 1 instead of 2
+Added Differential Pair: Name=DPE_RX10
+Added Differential Pair: Name=DPE_RX11
+Added Differential Pair: Name=DPE_TX0
+Added Differential Pair: Name=DPE_TX1
+Added Differential Pair: Name=DPE_TX2
+Added Differential Pair: Name=DPE_TX3
+Added Differential Pair: Name=DPE_TX4
+Added Differential Pair: Name=DPE_TX5
+Added Differential Pair: Name=DPE_TX6
+Added Differential Pair: Name=DPE_TX7
+Added Differential Pair: Name=DPE_TX8
+Added Differential Pair: Name=DPE_TX9
+Added Differential Pair: Name=DPE_TX10
+Added Differential Pair: Name=DPE_TX11
+Added Differential Pair: Name=REFCLK0
+Added Differential Pair: Name=REFCLK1
+Added Differential Pair: Name=REFCLK2
+Added Differential Pair: Name=REFCLK3
+Added Differential Pair: Name=REFCLK4
+Added Differential Pair: Name=REFCLK5
+Added Differential Pair: Name=SS1_RX
+Added Differential Pair: Name=SS1_TX
+Added Differential Pair: Name=SS2_RX
+Added Differential Pair: Name=SS2_TX
+Added Differential Pair: Name=SS3_RX
+Added Differential Pair: Name=SS3_TX
+Added Differential Pair: Name=SS4_RX
+Added Differential Pair: Name=SS4_TX
+Added Differential Pair: Name=SS5_RX
+Added Differential Pair: Name=SS5_TX
+Added Differential Pair: Name=UPE_REFCLK
+Added Differential Pair: Name=UPE_RX0
+Added Differential Pair: Name=UPE_RX1
+Added Differential Pair: Name=UPE_RX2
+Added Differential Pair: Name=UPE_RX3
+Added Differential Pair: Name=UPE_TX0
+Added Differential Pair: Name=UPE_TX1
+Added Differential Pair: Name=UPE_TX2
+Added Differential Pair: Name=UPE_TX3
+Added Differential Pair: Name=USB0_D
+Added Differential Pair: Name=USB0_RX1
+Added Differential Pair: Name=USB0_RX2
+Added Differential Pair: Name=USB0_TX1
+Added Differential Pair: Name=USB0_TX2
+Added Differential Pair: Name=USB1_D
+Added Differential Pair: Name=USB1_RX1
+Added Differential Pair: Name=USB1_RX2
+Added Differential Pair: Name=USB1_TX1
+Added Differential Pair: Name=USB1_TX2
+Added Differential Pair: Name=USB2_D
+Added Differential Pair: Name=USB2_RX1
+Added Differential Pair: Name=USB2_RX2
+Added Differential Pair: Name=USB2_TX1
+Added Differential Pair: Name=USB2_TX2
+Added Differential Pair: Name=USB3_D
+Added Differential Pair: Name=USB4_D
+Added Differential Pair: Name=USB5_D
+Added Differential Pair: Name=USB6_D
+Added Differential Pair: Name=USB7_D
+Added Differential Pair: Name=USB8_D
+Added Differential Pair: Name=USB9_D
+Added Differential Pair: Name=USB10_D
+Added Differential Pair: Name=USB11_D
+Added Member To Class: ClassName=Prom21Core Member=Component C? 100nF 6.3V
+Added Member To Class: ClassName=Prom21Core Member=Component C? 100nF 6.3V
+Added Member To Class: ClassName=Prom21Core Member=Component C? 100nF 6.3V
+Added Member To Class: ClassName=Prom21Core Member=Component C? 100nF 6.3V
+Added Member To Class: ClassName=Prom21Core Member=Component C? 100nF 6.3V
+Added Member To Class: ClassName=Prom21Core Member=Component C? 100nF 6.3V
+Added Member To Class: ClassName=Prom21Core Member=Component C? 100nF 6.3V
+Added Member To Class: ClassName=Prom21Core Member=Component C? 100nF 6.3V
+Added Member To Class: ClassName=Prom21Core Member=Component C? 100nF 6.3V
+Added Member To Class: ClassName=Prom21Core Member=Component C? 100nF 6.3V
+Added Member To Class: ClassName=Prom21Core Member=Component C? 100nF 6.3V
+Added Member To Class: ClassName=Prom21Core Member=Component C? 100nF 6.3V
+Added Member To Class: ClassName=Prom21Core Member=Component C? 100nF 6.3V
+Added Member To Class: ClassName=Prom21Core Member=Component C? 100nF 6.3V
+Added Member To Class: ClassName=Prom21Core Member=Component C? 100nF 6.3V
+Added Member To Class: ClassName=Prom21Core Member=Component C? 100nF 6.3V
+Added Member To Class: ClassName=Prom21Core Member=Component C? 100nF 6.3V
+Added Member To Class: ClassName=Prom21Core Member=Component C? 100nF 6.3V
+Added Member To Class: ClassName=Prom21Core Member=Component C? 100nF 6.3V
+Added Member To Class: ClassName=Prom21Core Member=Component C? 100nF 6.3V
+Added Member To Class: ClassName=Prom21Core Member=Component C? 100nF 6.3V
+Added Member To Class: ClassName=Prom21Core Member=Component C? 100nF 6.3V
+Added Member To Class: ClassName=Prom21Core Member=Component C? 100nF 6.3V
+Added Member To Class: ClassName=Prom21Core Member=Component C? 100nF 6.3V
+Added Member To Class: ClassName=Prom21Core Member=Component C? 100nF 6.3V
+Added Member To Class: ClassName=Prom21Core Member=Component C? 100nF 6.3V
+Added Member To Class: ClassName=Prom21Core Member=Component C? 100nF 6.3V
+Added Member To Class: ClassName=Prom21Core Member=Component C? 100nF 6.3V
+Added Member To Class: ClassName=Prom21Core Member=Component C? 100nF 6.3V
+Added Member To Class: ClassName=Prom21Core Member=Component C? 100nF 6.3V
+Added Member To Class: ClassName=Prom21Core Member=Component C? 100nF 6.3V
+Added Member To Class: ClassName=Prom21Core Member=Component C? 100nF 6.3V
+Added Member To Class: ClassName=Prom21Core Member=Component C? 100nF 6.3V
+Added Member To Class: ClassName=Prom21Core Member=Component C? 100nF 6.3V
+Added Member To Class: ClassName=Prom21Core Member=Component C? 100nF 6.3V
+Added Member To Class: ClassName=Prom21Core Member=Component C? 100nF 6.3V
+Added Member To Class: ClassName=pwr Member=Component C? 22uF 6.3V
+Added Member To Class: ClassName=pwr Member=Component C? 220nF 25V
+Added Member To Class: ClassName=pwr Member=Component C? 22uF 6.3V
+Added Member To Class: ClassName=pwr Member=Component C? 22uF 6.3V
+Added Member To Class: ClassName=pwr Member=Component C? 22uF 6.3V
+Added Member To Class: ClassName=pwr Member=Component C? 22uF 25V
+Added Member To Class: ClassName=pwr Member=Component C? 10nF 25V
+Added Member To Class: ClassName=pwr Member=Component C? 22uF 25V
+Added Member To Class: ClassName=USB Member=Component C? 100nF 10V
+Added Member To Class: ClassName=USB Member=Component C? 4.7uF 10V NC
+Added Member To Class: ClassName=USB Member=Component C? 4.7uF 10V NC
+Added Member To Class: ClassName=USB Member=Component C? 100nF 10V
+Added Member To Class: ClassName=USB Member=Component C? 100nF 10V
+Added Member To Class: ClassName=pwr Member=Component E? 220uF 25V
+Added Member To Class: ClassName=pwr Member=Component E? 100uF 25V
+Added Member To Class: ClassName=Connector Member=Component J? TYPEC-501S-ACP24H92
+Added Member To Class: ClassName=Connector Member=Component J? TYPEC-501S-ACP24H92
+Added Member To Class: ClassName=Connector Member=Component J? TYPEC-501S-ACP24H92
+Add Class Member: Failed to add class member : Component L2 10uH
+Add Class Member: Failed to add class member : Component L3 10uH
+Add Class Member: Failed to add class member : Component L5 10uH
+Added Member To Class: ClassName=pwr Member=Component R? 15K 1%
+Added Member To Class: ClassName=pwr Member=Component R? 15K 1%
+Added Member To Class: ClassName=pwr Member=Component R? 20K 1%
+Added Member To Class: ClassName=USB Member=Component R? 20K 1%
+Added Member To Class: ClassName=USB Member=Component R? 10K 1%
+Added Member To Class: ClassName=USB Member=Component R? 10K 1%
+Added Member To Class: ClassName=USB Member=Component R? 10K 1%
+Added Member To Class: ClassName=USB Member=Component R? 10K 1%
+Added Member To Class: ClassName=USB Member=Component R? 10K 1%
+Added Member To Class: ClassName=USB Member=Component R? 20K 1%
+Added Member To Class: ClassName=USB Member=Component R? 10K 1%
+Added Member To Class: ClassName=USB Member=Component R? 10K 1%
+Added Member To Class: ClassName=USB Member=Component R? 10K 1%
+Added Member To Class: ClassName=USB Member=Component R? 20K 1%
+Added Member To Class: ClassName=USB Member=Component R? 10K 1%
+Added Member To Class: ClassName=USB Member=Component R? 10K 1%
+Added Member To Class: ClassName=USB Member=Component R? 10K 1%
+Add Class Member: Failed to add class member : Component U16 VRH1052LTX
+Add Class Member: Failed to add class member : Component U17 TPSPX3819M5-L-3-3
+Added Member To Class: ClassName=USB Member=Component U? TPD4E02B04
+Added Member To Class: ClassName=USB Member=Component U? VL160
+Added Member To Class: ClassName=USB Member=Component U? TPD4E02B04
+Added Member To Class: ClassName=USB Member=Component U? VL160
+Added Member To Class: ClassName=USB Member=Component U? TPD4E02B04
+Added Member To Class: ClassName=USB Member=Component U? TPD4E02B04
+Added Member To Class: ClassName=USB Member=Component U? TPD4E02B04
+Added Member To Class: ClassName=USB Member=Component U? VL160
+Added Rule: Name=Schematic Differential Pairs Routing
+Added Rule: Name=Schematic Differential Pairs Routing_1
+Added Rule: Name=Schematic Differential Pairs Routing_2
+Added Rule: Name=Schematic Differential Pairs Routing_3

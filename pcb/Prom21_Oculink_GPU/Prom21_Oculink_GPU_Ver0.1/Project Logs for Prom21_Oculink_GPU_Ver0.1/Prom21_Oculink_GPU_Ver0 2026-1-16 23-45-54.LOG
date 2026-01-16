@@ -1,0 +1,150 @@
+Change Footprint: Footprint Not Found TSOT-23-6_L2.9-W1.6-P0.95-LS2.8-BL
+Change Footprint: Footprint Not Found TSOT-23-6_L2.9-W1.6-P0.95-LS2.8-BL
+Change Footprint: Footprint Not Found TSOT-23-6_L2.9-W1.6-P0.95-LS2.8-BL
+Change Footprint: Footprint Not Found VQFN-20_L3.0-W3.0-P0.45-TL-EP_TI_RJE
+Change Footprint: Footprint Not Found VQFN-20_L3.0-W3.0-P0.45-TL-EP_TI_RJE
+Change Footprint: Footprint Not Found VQFN-20_L3.0-W3.0-P0.45-TL-EP_TI_RJE
+Add Component: Footprint Not Found SOT23-5
+Add Component: Footprint Not Found SOT23-5
+Add Pin To Net: Unknown Pin: Pin L2-1
+Add Pin To Net: Unknown Pin: Pin L2-2
+Add Pin To Net: Unknown Pin: Pin L3-1
+Add Pin To Net: Unknown Pin: Pin L3-2
+Add Pin To Net: Unknown Pin: Pin L5-1
+Add Pin To Net: Unknown Pin: Pin L5-2
+Add Pin To Net: Unknown Pin: Pin U10-11
+Add Pin To Net: Unknown Pin: Pin U10-12
+Add Pin To Net: Unknown Pin: Pin U10-13
+Add Pin To Net: Unknown Pin: Pin U10-14
+Add Pin To Net: Unknown Pin: Pin U10-15
+Add Pin To Net: Unknown Pin: Pin U10-16
+Add Pin To Net: Unknown Pin: Pin U10-17
+Add Pin To Net: Unknown Pin: Pin U10-18
+Add Pin To Net: Unknown Pin: Pin U10-19
+Add Pin To Net: Unknown Pin: Pin U10-20
+Add Pin To Net: Unknown Pin: Pin U10-21
+Add Pin To Net: Unknown Pin: Pin U13-11
+Add Pin To Net: Unknown Pin: Pin U13-12
+Add Pin To Net: Unknown Pin: Pin U13-13
+Add Pin To Net: Unknown Pin: Pin U13-14
+Add Pin To Net: Unknown Pin: Pin U13-15
+Add Pin To Net: Unknown Pin: Pin U13-16
+Add Pin To Net: Unknown Pin: Pin U13-17
+Add Pin To Net: Unknown Pin: Pin U13-18
+Add Pin To Net: Unknown Pin: Pin U13-19
+Add Pin To Net: Unknown Pin: Pin U13-20
+Add Pin To Net: Unknown Pin: Pin U13-21
+Add Pin To Net: Unknown Pin: Pin U16-1
+Add Pin To Net: Unknown Pin: Pin U16-2
+Add Pin To Net: Unknown Pin: Pin U16-3
+Add Pin To Net: Unknown Pin: Pin U16-5
+Add Pin To Net: Unknown Pin: Pin U17-1
+Add Pin To Net: Unknown Pin: Pin U17-2
+Add Pin To Net: Unknown Pin: Pin U17-3
+Add Pin To Net: Unknown Pin: Pin U17-5
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Differential Pair: Number of nets in differential pair CAP_DPE_TX7 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair DPE_RX6 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair DPE_RX9 is 1 instead of 2
+Added Member To Class: ClassName=Prom21Core Member=Component C? 100nF 6.3V
+Added Member To Class: ClassName=Prom21Core Member=Component C? 100nF 6.3V
+Added Member To Class: ClassName=Prom21Core Member=Component C? 100nF 6.3V
+Added Member To Class: ClassName=Prom21Core Member=Component C? 100nF 6.3V
+Added Member To Class: ClassName=Prom21Core Member=Component C? 100nF 6.3V
+Added Member To Class: ClassName=Prom21Core Member=Component C? 100nF 6.3V
+Added Member To Class: ClassName=Prom21Core Member=Component C? 100nF 6.3V
+Added Member To Class: ClassName=Prom21Core Member=Component C? 100nF 6.3V
+Added Member To Class: ClassName=Prom21Core Member=Component C? 100nF 6.3V
+Added Member To Class: ClassName=Prom21Core Member=Component C? 100nF 6.3V
+Added Member To Class: ClassName=Prom21Core Member=Component C? 100nF 6.3V
+Added Member To Class: ClassName=Prom21Core Member=Component C? 100nF 6.3V
+Added Member To Class: ClassName=Prom21Core Member=Component C? 100nF 6.3V
+Added Member To Class: ClassName=Prom21Core Member=Component C? 100nF 6.3V
+Added Member To Class: ClassName=Prom21Core Member=Component C? 100nF 6.3V
+Added Member To Class: ClassName=Prom21Core Member=Component C? 100nF 6.3V
+Added Member To Class: ClassName=Prom21Core Member=Component C? 100nF 6.3V
+Added Member To Class: ClassName=Prom21Core Member=Component C? 100nF 6.3V
+Added Member To Class: ClassName=Prom21Core Member=Component C? 100nF 6.3V
+Added Member To Class: ClassName=Prom21Core Member=Component C? 100nF 6.3V
+Added Member To Class: ClassName=Prom21Core Member=Component C? 100nF 6.3V
+Added Member To Class: ClassName=Prom21Core Member=Component C? 100nF 6.3V
+Added Member To Class: ClassName=Prom21Core Member=Component C? 100nF 6.3V
+Added Member To Class: ClassName=Prom21Core Member=Component C? 100nF 6.3V
+Added Member To Class: ClassName=Prom21Core Member=Component C? 100nF 6.3V
+Added Member To Class: ClassName=Prom21Core Member=Component C? 100nF 6.3V
+Added Member To Class: ClassName=Prom21Core Member=Component C? 100nF 6.3V
+Added Member To Class: ClassName=Prom21Core Member=Component C? 100nF 6.3V
+Added Member To Class: ClassName=Prom21Core Member=Component C? 100nF 6.3V
+Added Member To Class: ClassName=Prom21Core Member=Component C? 100nF 6.3V
+Added Member To Class: ClassName=Prom21Core Member=Component C? 100nF 6.3V
+Added Member To Class: ClassName=Prom21Core Member=Component C? 100nF 6.3V
+Added Member To Class: ClassName=Prom21Core Member=Component C? 100nF 6.3V
+Added Member To Class: ClassName=Prom21Core Member=Component C? 100nF 6.3V
+Added Member To Class: ClassName=Prom21Core Member=Component C? 100nF 6.3V
+Added Member To Class: ClassName=pwr Member=Component C? 10nF 25V
+Added Member To Class: ClassName=pwr Member=Component C? 22uF 25V
+Added Member To Class: ClassName=pwr Member=Component C? 22uF 6.3V
+Added Member To Class: ClassName=pwr Member=Component C? 22uF 6.3V
+Added Member To Class: ClassName=pwr Member=Component C? 22uF 25V
+Added Member To Class: ClassName=pwr Member=Component C? 22uF 6.3V
+Added Member To Class: ClassName=pwr Member=Component C? 220nF 25V
+Added Member To Class: ClassName=pwr Member=Component C? 22uF 6.3V
+Added Member To Class: ClassName=USB Member=Component C? 4.7uF 10V NC
+Added Member To Class: ClassName=USB Member=Component C? 100nF 10V
+Added Member To Class: ClassName=USB Member=Component C? 100nF 10V
+Added Member To Class: ClassName=USB Member=Component C? 4.7uF 10V NC
+Added Member To Class: ClassName=USB Member=Component C? 100nF 10V
+Added Member To Class: ClassName=pwr Member=Component E? 100uF 25V
+Added Member To Class: ClassName=pwr Member=Component E? 220uF 25V
+Added Member To Class: ClassName=Connector Member=Component J? TYPEC-501S-ACP24H92
+Added Member To Class: ClassName=Connector Member=Component J? TYPEC-501S-ACP24H92
+Add Class Member: Failed to add class member : Component L2 10uH
+Add Class Member: Failed to add class member : Component L3 10uH
+Add Class Member: Failed to add class member : Component L5 10uH
+Added Member To Class: ClassName=pwr Member=Component R? 15K 1%
+Added Member To Class: ClassName=pwr Member=Component R? 20K 1%
+Added Member To Class: ClassName=pwr Member=Component R? 15K 1%
+Added Member To Class: ClassName=USB Member=Component R? 10K 1%
+Added Member To Class: ClassName=USB Member=Component R? 10K 1%
+Added Member To Class: ClassName=USB Member=Component R? 20K 1%
+Added Member To Class: ClassName=USB Member=Component R? 20K 1%
+Added Member To Class: ClassName=USB Member=Component R? 10K 1%
+Added Member To Class: ClassName=USB Member=Component R? 10K 1%
+Added Member To Class: ClassName=USB Member=Component R? 20K 1%
+Added Member To Class: ClassName=USB Member=Component R? 10K 1%
+Added Member To Class: ClassName=USB Member=Component R? 10K 1%
+Added Member To Class: ClassName=USB Member=Component R? 10K 1%
+Added Member To Class: ClassName=USB Member=Component R? 10K 1%
+Added Member To Class: ClassName=USB Member=Component R? 10K 1%
+Added Member To Class: ClassName=USB Member=Component R? 10K 1%
+Added Member To Class: ClassName=USB Member=Component R? 10K 1%
+Add Class Member: Failed to add class member : Component U16 VRH1052LTX
+Add Class Member: Failed to add class member : Component U17 TPSPX3819M5-L-3-3
+Added Member To Class: ClassName=USB Member=Component U? VL160
+Added Member To Class: ClassName=USB Member=Component U? VL160
+Added Member To Class: ClassName=USB Member=Component U? TPD4E02B04
+Added Member To Class: ClassName=USB Member=Component U? TPD4E02B04
+Added Member To Class: ClassName=USB Member=Component U? TPD4E02B04
+Added Member To Class: ClassName=USB Member=Component U? TPD4E02B04
+Added Member To Class: ClassName=USB Member=Component U? VL160
+Added Member To Class: ClassName=USB Member=Component U? TPD4E02B04
+Added Rule: Name=Schematic Differential Pairs Routing
+Added Rule: Name=Schematic Differential Pairs Routing_1
+Added Rule: Name=Schematic Differential Pairs Routing_2
+Added Rule: Name=Schematic Differential Pairs Routing_3
