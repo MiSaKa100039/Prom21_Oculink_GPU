@@ -1,0 +1,128 @@
+Removed Pin From Net: NetName=DPE_RX0_N Pin=U5-E15
+Add Component: Footprint Not Found VQFN-20_L3.0-W3.0-P0.45-TL-EP_TI_RJE
+Add Component: Footprint Not Found TSOT-23-6_L2.9-W1.6-P0.95-LS2.8-BL
+Add Component: Footprint Not Found TSOT-23-6_L2.9-W1.6-P0.95-LS2.8-BL
+Add Component: Footprint Not Found VQFN-20_L3.0-W3.0-P0.45-TL-EP_TI_RJE
+Add Component: Footprint Not Found TSOT-23-6_L2.9-W1.6-P0.95-LS2.8-BL
+Add Component: Footprint Not Found SOT23-5
+Add Component: Footprint Not Found VQFN-20_L3.0-W3.0-P0.45-TL-EP_TI_RJE
+Add Component: Footprint Not Found SOT23-5
+Add Pin To Net: Unknown Pin: Pin J3-SH1
+Add Pin To Net: Unknown Pin: Pin J3-SH2
+Add Pin To Net: Unknown Pin: Pin J3-SH3
+Add Pin To Net: Unknown Pin: Pin J3-SH4
+Add Pin To Net: Unknown Pin: Pin J4-SH1
+Add Pin To Net: Unknown Pin: Pin J4-SH2
+Add Pin To Net: Unknown Pin: Pin J4-SH3
+Add Pin To Net: Unknown Pin: Pin J4-SH4
+Add Pin To Net: Unknown Pin: Pin J5-SH1
+Add Pin To Net: Unknown Pin: Pin J5-SH2
+Add Pin To Net: Unknown Pin: Pin J5-SH3
+Add Pin To Net: Unknown Pin: Pin J5-SH4
+Add Pin To Net: Unknown Pin: Pin L2-1
+Add Pin To Net: Unknown Pin: Pin L2-2
+Add Pin To Net: Unknown Pin: Pin L3-1
+Add Pin To Net: Unknown Pin: Pin L3-2
+Add Pin To Net: Unknown Pin: Pin L5-1
+Add Pin To Net: Unknown Pin: Pin L5-2
+Add Pin To Net: Unknown Pin: Pin U7-1
+Add Pin To Net: Unknown Pin: Pin U7-2
+Add Pin To Net: Unknown Pin: Pin U7-3
+Add Pin To Net: Unknown Pin: Pin U7-4
+Add Pin To Net: Unknown Pin: Pin U7-5
+Add Pin To Net: Unknown Pin: Pin U7-6
+Add Pin To Net: Unknown Pin: Pin U7-7
+Add Pin To Net: Unknown Pin: Pin U7-8
+Add Pin To Net: Unknown Pin: Pin U7-9
+Add Pin To Net: Unknown Pin: Pin U7-10
+Add Pin To Net: Unknown Pin: Pin U7-11
+Add Pin To Net: Unknown Pin: Pin U7-12
+Add Pin To Net: Unknown Pin: Pin U7-13
+Add Pin To Net: Unknown Pin: Pin U7-14
+Add Pin To Net: Unknown Pin: Pin U7-15
+Add Pin To Net: Unknown Pin: Pin U7-16
+Add Pin To Net: Unknown Pin: Pin U7-17
+Add Pin To Net: Unknown Pin: Pin U7-18
+Add Pin To Net: Unknown Pin: Pin U7-19
+Add Pin To Net: Unknown Pin: Pin U7-20
+Add Pin To Net: Unknown Pin: Pin U7-21
+Add Pin To Net: Unknown Pin: Pin U8-1
+Add Pin To Net: Unknown Pin: Pin U8-2
+Add Pin To Net: Unknown Pin: Pin U8-3
+Add Pin To Net: Unknown Pin: Pin U8-4
+Add Pin To Net: Unknown Pin: Pin U8-6
+Add Pin To Net: Unknown Pin: Pin U9-1
+Add Pin To Net: Unknown Pin: Pin U9-2
+Add Pin To Net: Unknown Pin: Pin U9-3
+Add Pin To Net: Unknown Pin: Pin U9-4
+Add Pin To Net: Unknown Pin: Pin U9-6
+Add Pin To Net: Unknown Pin: Pin U10-1
+Add Pin To Net: Unknown Pin: Pin U10-2
+Add Pin To Net: Unknown Pin: Pin U10-3
+Add Pin To Net: Unknown Pin: Pin U10-4
+Add Pin To Net: Unknown Pin: Pin U10-5
+Add Pin To Net: Unknown Pin: Pin U10-6
+Add Pin To Net: Unknown Pin: Pin U10-7
+Add Pin To Net: Unknown Pin: Pin U10-8
+Add Pin To Net: Unknown Pin: Pin U10-9
+Add Pin To Net: Unknown Pin: Pin U10-10
+Add Pin To Net: Unknown Pin: Pin U10-11
+Add Pin To Net: Unknown Pin: Pin U10-12
+Add Pin To Net: Unknown Pin: Pin U10-13
+Add Pin To Net: Unknown Pin: Pin U10-14
+Add Pin To Net: Unknown Pin: Pin U10-15
+Add Pin To Net: Unknown Pin: Pin U10-16
+Add Pin To Net: Unknown Pin: Pin U10-17
+Add Pin To Net: Unknown Pin: Pin U10-18
+Add Pin To Net: Unknown Pin: Pin U10-19
+Add Pin To Net: Unknown Pin: Pin U10-20
+Add Pin To Net: Unknown Pin: Pin U10-21
+Add Pin To Net: Unknown Pin: Pin U11-1
+Add Pin To Net: Unknown Pin: Pin U11-2
+Add Pin To Net: Unknown Pin: Pin U11-3
+Add Pin To Net: Unknown Pin: Pin U11-4
+Add Pin To Net: Unknown Pin: Pin U11-6
+Add Pin To Net: Unknown Pin: Pin U12-1
+Add Pin To Net: Unknown Pin: Pin U12-2
+Add Pin To Net: Unknown Pin: Pin U12-3
+Add Pin To Net: Unknown Pin: Pin U12-5
+Add Pin To Net: Unknown Pin: Pin U13-1
+Add Pin To Net: Unknown Pin: Pin U13-2
+Add Pin To Net: Unknown Pin: Pin U13-3
+Add Pin To Net: Unknown Pin: Pin U13-4
+Add Pin To Net: Unknown Pin: Pin U13-5
+Add Pin To Net: Unknown Pin: Pin U13-6
+Add Pin To Net: Unknown Pin: Pin U13-7
+Add Pin To Net: Unknown Pin: Pin U13-8
+Add Pin To Net: Unknown Pin: Pin U13-9
+Add Pin To Net: Unknown Pin: Pin U13-10
+Add Pin To Net: Unknown Pin: Pin U13-11
+Add Pin To Net: Unknown Pin: Pin U13-12
+Add Pin To Net: Unknown Pin: Pin U13-13
+Add Pin To Net: Unknown Pin: Pin U13-14
+Add Pin To Net: Unknown Pin: Pin U13-15
+Add Pin To Net: Unknown Pin: Pin U13-16
+Add Pin To Net: Unknown Pin: Pin U13-17
+Add Pin To Net: Unknown Pin: Pin U13-18
+Add Pin To Net: Unknown Pin: Pin U13-19
+Add Pin To Net: Unknown Pin: Pin U13-20
+Add Pin To Net: Unknown Pin: Pin U13-21
+Add Pin To Net: Unknown Pin: Pin U14-1
+Add Pin To Net: Unknown Pin: Pin U14-2
+Add Pin To Net: Unknown Pin: Pin U14-3
+Add Pin To Net: Unknown Pin: Pin U14-5
+Added Pin To Net: NetName=DPE_RX9_N Pin=U5-E15
+Added Net: Name=DPE_RX9_N
+Added Differential Pair: Name=DPE_RX9
+Add Class Member: Failed to add class member : Component L2 10uH
+Add Class Member: Failed to add class member : Component L3 10uH
+Add Class Member: Failed to add class member : Component L5 10uH
+Add Class Member: Failed to add class member : Component U7 TPS56C230RJER
+Add Class Member: Failed to add class member : Component U8 TPS565201DDCR
+Add Class Member: Failed to add class member : Component U9 TPS565201DDCR
+Add Class Member: Failed to add class member : Component U10 TPS56C230RJER
+Add Class Member: Failed to add class member : Component U11 TPS565201DDCR
+Add Class Member: Failed to add class member : Component U12 VRH1052LTX
+Add Class Member: Failed to add class member : Component U13 TPS56C230RJER
+Add Class Member: Failed to add class member : Component U14 TPSPX3819M5-L-3-3
+Added Member To Class: ClassName=PWR Member=Wire VCC5.0V

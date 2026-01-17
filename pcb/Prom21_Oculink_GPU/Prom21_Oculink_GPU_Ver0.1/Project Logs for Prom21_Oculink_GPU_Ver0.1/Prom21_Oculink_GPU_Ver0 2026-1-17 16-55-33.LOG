@@ -1,0 +1,387 @@
+Change Component Footprint: Designator=E2 Old Footprint=CAP 1.5*4*8 New Footprint=CT 6*4 - C
+Change Component Footprint: Designator=E3 Old Footprint=CAP 1.5*4*8 New Footprint=CT 6*4 - C
+Change Component Footprint: Designator=E4 Old Footprint=CAP 1.5*4*8 New Footprint=CT 6*4 - C
+Change Component Footprint: Designator=E5 Old Footprint=CAP 1.5*4*8 New Footprint=CT 6*4 - C
+Change Component Footprint: Designator=E7 Old Footprint=CAP 1.5*4*8 New Footprint=CT 6*4 - C
+Change Component Footprint: Designator=E8 Old Footprint=CAP 1.5*4*8 New Footprint=CT 6*4 - C
+Change Component Footprint: Designator=E9 Old Footprint=CAP 1.5*4*8 New Footprint=CT 6*4 - C
+Change Component Footprint: Designator=E11 Old Footprint=CAP 1.5*4*8 New Footprint=CT 6*4 - C
+Change Component Footprint: Designator=E12 Old Footprint=CAP 1.5*4*8 New Footprint=CT 6*4 - C
+Change Component Footprint: Designator=E1 Old Footprint=CAP 1.5*4*8 New Footprint=CT 6*4 - R
+Change Component Footprint: Designator=E6 Old Footprint=CAP 1.5*4*8 New Footprint=CT 6*4 - R
+Change Component Footprint: Designator=E10 Old Footprint=CAP 1.5*4*8 New Footprint=CT 6*4 - R
+Change Component Footprint: Designator=L1 Old Footprint=NR6045 New Footprint=L0630贴片电感
+Change Component Footprint: Designator=L4 Old Footprint=NR6045 New Footprint=L0630贴片电感
+Change Component Footprint: Designator=L6 Old Footprint=NR6045 New Footprint=L0630贴片电感
+Change Component Footprint: Designator=R1 Old Footprint=R0603_L New Footprint=R0402_L
+Change Component Footprint: Designator=R2 Old Footprint=R0603_L New Footprint=R0402_L
+Change Component Comment : Designator=R71 Old Comment=1K 1% New Comment=100K 1%
+Change Component Comment : Designator=R73 Old Comment=1K 1% New Comment=100K 1%
+Change Component Comment : Designator=L1 Old Comment=1uH New Comment=1.5uH
+Change Component Comment : Designator=L4 Old Comment=1uH New Comment=6.8uH
+Change Component Comment : Designator=L6 Old Comment=1uH New Comment=8.2uH
+Change Component Comment : Designator=R58 Old Comment=15K 1% New Comment=7.5K 1%
+Change Component Comment : Designator=R66 Old Comment=15K 1% New Comment=40.2K 1%
+Change Component Comment : Designator=R72 Old Comment=15K 1% New Comment=110K 1%
+Change Component Comment : Designator=R60 Old Comment=15K 1% New Comment=330K 1%
+Change Component Comment : Designator=R68 Old Comment=15K 1% New Comment=330K 1%
+Change Component Comment : Designator=R74 Old Comment=15K 1% New Comment=330K 1%
+Change Component Comment : Designator=R62 Old Comment=20K 1% New Comment=10K 1%
+Change Component Comment : Designator=R59 Old Comment=20K 1% New Comment=15K 1%
+Change Component Comment : Designator=R64 Old Comment=20K 1% New Comment=15K 1%
+Change Component Comment : Designator=R67 Old Comment=20K 1% New Comment=15K 1%
+Change Component Comment : Designator=R76 Old Comment=20K 1% New Comment=15K 1%
+Change Component Comment : Designator=R57 Old Comment=27K 1% New Comment=51K 1%
+Change Component Comment : Designator=R63 Old Comment=27K 1% New Comment=51K 1%
+Change Component Comment : Designator=R65 Old Comment=27K 1% New Comment=51K 1%
+Change Component Comment : Designator=C89 Old Comment=220nF 25V New Comment=100nF 25V
+Change Component Comment : Designator=C112 Old Comment=220nF 25V New Comment=100nF 25V
+Change Component Comment : Designator=C129 Old Comment=220nF 25V New Comment=100nF 25V
+Change Component Comment : Designator=E2 Old Comment=220uF 25V New Comment=220uF 6.3V
+Change Component Comment : Designator=E3 Old Comment=220uF 25V New Comment=220uF 6.3V
+Change Component Comment : Designator=E4 Old Comment=220uF 25V New Comment=220uF 6.3V
+Change Component Comment : Designator=E5 Old Comment=220uF 25V New Comment=220uF 6.3V
+Change Component Comment : Designator=E7 Old Comment=220uF 25V New Comment=220uF 6.3V
+Change Component Comment : Designator=E8 Old Comment=220uF 25V New Comment=220uF 6.3V
+Change Component Comment : Designator=E9 Old Comment=220uF 25V New Comment=220uF 6.3V
+Change Component Comment : Designator=E11 Old Comment=220uF 25V New Comment=220uF 6.3V
+Change Component Comment : Designator=E12 Old Comment=220uF 25V New Comment=220uF 6.3V
+Added Component: Designator=R?(R0402_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=R?(R0402_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=R?(R0402_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=R?(R0402_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=R?(R0402_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=U7(VQFN-20_L3.0-W3.0-P0.45-TL-EP_TI_RJE)
+Add component (AddParameter): Name = "AddInBom"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Channel ID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ConvertToPcb"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://www.ti.com/cn/lit/gpn/tps56c230"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "TPS56C230RJER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FootprintName"; Value = "VQFN-20_L3.0-W3.0-P0.45-TL-EP_TI_RJE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Function"; Value = "降压型"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Group ID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Input Voltage"; Value = "4.5V~18V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "扩展库"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "TPS56C230RJER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TI(德州仪器)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPart"; Value = "TPS56C230RJER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelId"; Value = "a0d54152b84047e092cea8f9e273e78e"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelName"; Value = "VQFN-20_L3.0-W3.0-P0.45-TL-EP_TI_RJE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelTransform"; Value = "118.8974,118.8974,0,0,0,0,0,0,0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Outputs"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40℃~+125℃@(TJ)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Current (Max)"; Value = "12A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Type"; Value = "可调"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Voltage"; Value = "600mV~5.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reuse Block"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "VQFN-20-EP(3x3)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SupplierPart"; Value = "C1849534"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switch tube (built-in/external)"; Value = "内置"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switching Frequency"; Value = "500kHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "TPS56C230RJER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Synchronous Rectification"; Value = "是"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Topology"; Value = "降压式"; VariantName = "[No Variations]"
+Added Component: Designator=U8(SOT23-6L)
+Add component (AddParameter): Name = "AddInBom"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Channel ID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ConvertToPcb"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "TPS565201DDCR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FootprintName"; Value = "TSOT-23-6_L2.9-W1.6-P0.95-LS2.8-BL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Function"; Value = "降压型"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Group ID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Input Voltage"; Value = "4.5V~17V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "扩展库"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "TPS565201DDCR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TI(德州仪器)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPart"; Value = "TPS565201DDCR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelId"; Value = "2c4039b5b88644c1bda4b4ba9e971667"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelName"; Value = "TSOT-23-6_L2.9-W1.6-H1.1-LS2.8-P0.95"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelTransform"; Value = "110.236,114.173,0,90,0,0,0,0,0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Outputs"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40℃~+125℃@(TJ)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Current (Max)"; Value = "5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Type"; Value = "可调"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Voltage"; Value = "600mV~7V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reuse Block"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "TSOT-23-6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SupplierPart"; Value = "C327676"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switch tube (built-in/external)"; Value = "内置"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switching Frequency"; Value = "500kHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName"; Value = "TPS565201DDCR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Synchronous Rectification"; Value = "是"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Topology"; Value = "降压式"; VariantName = "[No Variations]"
+Added Component: Designator=U9(SOT23-6L)
+Add component (AddParameter): Name = "AddInBom"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Channel ID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ConvertToPcb"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "TPS565201DDCR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FootprintName"; Value = "TSOT-23-6_L2.9-W1.6-P0.95-LS2.8-BL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Function"; Value = "降压型"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Group ID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Input Voltage"; Value = "4.5V~17V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "扩展库"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "TPS565201DDCR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TI(德州仪器)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPart"; Value = "TPS565201DDCR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelId"; Value = "2c4039b5b88644c1bda4b4ba9e971667"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelName"; Value = "TSOT-23-6_L2.9-W1.6-H1.1-LS2.8-P0.95"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelTransform"; Value = "110.236,114.173,0,90,0,0,0,0,0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Outputs"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40℃~+125℃@(TJ)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Current (Max)"; Value = "5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Type"; Value = "可调"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Voltage"; Value = "600mV~7V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reuse Block"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "TSOT-23-6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SupplierPart"; Value = "C327676"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switch tube (built-in/external)"; Value = "内置"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switching Frequency"; Value = "500kHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName"; Value = "TPS565201DDCR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Synchronous Rectification"; Value = "是"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Topology"; Value = "降压式"; VariantName = "[No Variations]"
+Added Component: Designator=U10(VQFN-20_L3.0-W3.0-P0.45-TL-EP_TI_RJE)
+Add component (AddParameter): Name = "AddInBom"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Channel ID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ConvertToPcb"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://www.ti.com/cn/lit/gpn/tps56c230"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "TPS56C230RJER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FootprintName"; Value = "VQFN-20_L3.0-W3.0-P0.45-TL-EP_TI_RJE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Function"; Value = "降压型"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Group ID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Input Voltage"; Value = "4.5V~18V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "扩展库"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "TPS56C230RJER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TI(德州仪器)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPart"; Value = "TPS56C230RJER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelId"; Value = "a0d54152b84047e092cea8f9e273e78e"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelName"; Value = "VQFN-20_L3.0-W3.0-P0.45-TL-EP_TI_RJE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelTransform"; Value = "118.8974,118.8974,0,0,0,0,0,0,0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Outputs"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40℃~+125℃@(TJ)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Current (Max)"; Value = "12A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Type"; Value = "可调"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Voltage"; Value = "600mV~5.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reuse Block"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "VQFN-20-EP(3x3)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SupplierPart"; Value = "C1849534"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switch tube (built-in/external)"; Value = "内置"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switching Frequency"; Value = "500kHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "TPS56C230RJER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Synchronous Rectification"; Value = "是"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Topology"; Value = "降压式"; VariantName = "[No Variations]"
+Added Component: Designator=U11(SOT23-6L)
+Add component (AddParameter): Name = "AddInBom"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Channel ID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ConvertToPcb"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "TPS565201DDCR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FootprintName"; Value = "TSOT-23-6_L2.9-W1.6-P0.95-LS2.8-BL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Function"; Value = "降压型"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Group ID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Input Voltage"; Value = "4.5V~17V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "扩展库"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "TPS565201DDCR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TI(德州仪器)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPart"; Value = "TPS565201DDCR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelId"; Value = "2c4039b5b88644c1bda4b4ba9e971667"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelName"; Value = "TSOT-23-6_L2.9-W1.6-H1.1-LS2.8-P0.95"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelTransform"; Value = "110.236,114.173,0,90,0,0,0,0,0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Outputs"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40℃~+125℃@(TJ)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Current (Max)"; Value = "5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Type"; Value = "可调"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Voltage"; Value = "600mV~7V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reuse Block"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "TSOT-23-6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SupplierPart"; Value = "C327676"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switch tube (built-in/external)"; Value = "内置"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switching Frequency"; Value = "500kHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName"; Value = "TPS565201DDCR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Synchronous Rectification"; Value = "是"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Topology"; Value = "降压式"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found SOT23-5
+Added Component: Designator=U13(VQFN-20_L3.0-W3.0-P0.45-TL-EP_TI_RJE)
+Add component (AddParameter): Name = "AddInBom"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Channel ID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ConvertToPcb"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://www.ti.com/cn/lit/gpn/tps56c230"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "TPS56C230RJER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FootprintName"; Value = "VQFN-20_L3.0-W3.0-P0.45-TL-EP_TI_RJE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Function"; Value = "降压型"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Group ID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Input Voltage"; Value = "4.5V~18V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "扩展库"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "TPS56C230RJER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TI(德州仪器)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPart"; Value = "TPS56C230RJER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelId"; Value = "a0d54152b84047e092cea8f9e273e78e"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelName"; Value = "VQFN-20_L3.0-W3.0-P0.45-TL-EP_TI_RJE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelTransform"; Value = "118.8974,118.8974,0,0,0,0,0,0,0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Outputs"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40℃~+125℃@(TJ)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Current (Max)"; Value = "12A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Type"; Value = "可调"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Voltage"; Value = "600mV~5.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reuse Block"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "VQFN-20-EP(3x3)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SupplierPart"; Value = "C1849534"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switch tube (built-in/external)"; Value = "内置"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switching Frequency"; Value = "500kHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "TPS56C230RJER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Synchronous Rectification"; Value = "是"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Topology"; Value = "降压式"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found SOT23-5
+Add Pin To Net: Unknown Pin: Pin J2-SH1
+Add Pin To Net: Unknown Pin: Pin J2-SH2
+Add Pin To Net: Unknown Pin: Pin J2-SH3
+Add Pin To Net: Unknown Pin: Pin J2-SH4
+Add Pin To Net: Unknown Pin: Pin J3-SH1
+Add Pin To Net: Unknown Pin: Pin J3-SH2
+Add Pin To Net: Unknown Pin: Pin J3-SH3
+Add Pin To Net: Unknown Pin: Pin J3-SH4
+Add Pin To Net: Unknown Pin: Pin J4-SH1
+Add Pin To Net: Unknown Pin: Pin J4-SH2
+Add Pin To Net: Unknown Pin: Pin J4-SH3
+Add Pin To Net: Unknown Pin: Pin J4-SH4
+Add Pin To Net: Unknown Pin: Pin L2-1
+Add Pin To Net: Unknown Pin: Pin L2-2
+Add Pin To Net: Unknown Pin: Pin L3-1
+Add Pin To Net: Unknown Pin: Pin L3-2
+Add Pin To Net: Unknown Pin: Pin L5-1
+Add Pin To Net: Unknown Pin: Pin L5-2
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=VCC12V Pin=R?-1
+Added Pin To Net: NetName=VCC12V Pin=R?-1
+Added Pin To Net: NetName=VCC12V Pin=R?-1
+Added Pin To Net: NetName=VCC12V Pin=R?-2
+Added Pin To Net: NetName=NetC89_1 Pin=U7-1
+Added Pin To Net: NetName=VCC12V Pin=U7-2
+Added Pin To Net: NetName=VCC12V Pin=U7-3
+Added Pin To Net: NetName=VCC12V Pin=U7-4
+Added Pin To Net: NetName=VCC12V Pin=U7-5
+Added Pin To Net: NetName=NetC89_2 Pin=U7-6
+Added Pin To Net: NetName=GND Pin=U7-7
+Added Pin To Net: NetName=GND Pin=U7-8
+Added Pin To Net: NetName=VCC1.05V_PGOOD Pin=U7-9
+Added Pin To Net: NetName=GND Pin=U7-10
+Added Pin To Net: NetName=NetC95_2 Pin=U7-11
+Added Pin To Net: NetName=VSUS3.3V Pin=U7-12
+Added Pin To Net: NetName=GND Pin=U7-13
+Added Pin To Net: NetName=NetR58_2 Pin=U7-14
+Added Pin To Net: NetName=NetR60_2 Pin=U7-15
+Added Pin To Net: NetName=GND Pin=U7-16
+Added Pin To Net: NetName=NetC96_2 Pin=U7-17
+Added Pin To Net: NetName=GND Pin=U7-18
+Added Pin To Net: NetName=NetC89_2 Pin=U7-19
+Added Pin To Net: NetName=NetC89_2 Pin=U7-20
+Added Pin To Net: NetName=GND Pin=U7-21
+Added Pin To Net: NetName=GND Pin=U8-1
+Added Pin To Net: NetName=NetC80_1 Pin=U8-2
+Added Pin To Net: NetName=VCC12V Pin=U8-3
+Added Pin To Net: NetName=NetR57_2 Pin=U8-4
+Added Pin To Net: NetName=NetC80_2 Pin=U8-6
+Added Pin To Net: NetName=GND Pin=U9-1
+Added Pin To Net: NetName=NetC94_1 Pin=U9-2
+Added Pin To Net: NetName=VCC12V Pin=U9-3
+Added Pin To Net: NetName=NetR63_2 Pin=U9-4
+Added Pin To Net: NetName=NetC94_2 Pin=U9-6
+Added Pin To Net: NetName=NetC112_1 Pin=U10-1
+Added Pin To Net: NetName=VCC12V Pin=U10-2
+Added Pin To Net: NetName=VCC12V Pin=U10-3
+Added Pin To Net: NetName=VCC12V Pin=U10-4
+Added Pin To Net: NetName=VCC12V Pin=U10-5
+Added Pin To Net: NetName=NetC112_2 Pin=U10-6
+Added Pin To Net: NetName=GND Pin=U10-7
+Added Pin To Net: NetName=GND Pin=U10-8
+Added Pin To Net: NetName=GND Pin=U10-10
+Added Pin To Net: NetName=NetC117_2 Pin=U10-11
+Added Pin To Net: NetName=VSUS3.3V Pin=U10-12
+Added Pin To Net: NetName=GND Pin=U10-13
+Added Pin To Net: NetName=NetR66_2 Pin=U10-14
+Added Pin To Net: NetName=NetR68_2 Pin=U10-15
+Added Pin To Net: NetName=GND Pin=U10-16
+Added Pin To Net: NetName=NetC118_2 Pin=U10-17
+Added Pin To Net: NetName=GND Pin=U10-18
+Added Pin To Net: NetName=NetC112_2 Pin=U10-19
+Added Pin To Net: NetName=NetC112_2 Pin=U10-20
+Added Pin To Net: NetName=GND Pin=U10-21
+Added Pin To Net: NetName=GND Pin=U11-1
+Added Pin To Net: NetName=NetC103_1 Pin=U11-2
+Added Pin To Net: NetName=VCC12V Pin=U11-3
+Added Pin To Net: NetName=NetR65_2 Pin=U11-4
+Added Pin To Net: NetName=NetC103_2 Pin=U11-6
+Add Pin To Net: Unknown Pin: Pin U12-1
+Add Pin To Net: Unknown Pin: Pin U12-2
+Add Pin To Net: Unknown Pin: Pin U12-3
+Add Pin To Net: Unknown Pin: Pin U12-5
+Added Pin To Net: NetName=NetC129_1 Pin=U13-1
+Added Pin To Net: NetName=VCC12V Pin=U13-2
+Added Pin To Net: NetName=VCC12V Pin=U13-3
+Added Pin To Net: NetName=VCC12V Pin=U13-4
+Added Pin To Net: NetName=VCC12V Pin=U13-5
+Added Pin To Net: NetName=NetC129_2 Pin=U13-6
+Added Pin To Net: NetName=GND Pin=U13-7
+Added Pin To Net: NetName=GND Pin=U13-8
+Added Pin To Net: NetName=GND Pin=U13-10
+Added Pin To Net: NetName=NetC134_2 Pin=U13-11
+Added Pin To Net: NetName=GND Pin=U13-13
+Added Pin To Net: NetName=NetR72_2 Pin=U13-14
+Added Pin To Net: NetName=NetR74_2 Pin=U13-15
+Added Pin To Net: NetName=GND Pin=U13-16
+Added Pin To Net: NetName=NetC135_2 Pin=U13-17
+Added Pin To Net: NetName=GND Pin=U13-18
+Added Pin To Net: NetName=NetC129_2 Pin=U13-19
+Added Pin To Net: NetName=NetC129_2 Pin=U13-20
+Added Pin To Net: NetName=GND Pin=U13-21
+Add Pin To Net: Unknown Pin: Pin U14-1
+Add Pin To Net: Unknown Pin: Pin U14-2
+Add Pin To Net: Unknown Pin: Pin U14-3
+Add Pin To Net: Unknown Pin: Pin U14-5
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Pin To Net: NetName=NetR?_1 Pin=R?-2
+Added Pin To Net: NetName=NetR?_1 Pin=U13-12
+Added Net: Name=NetR?_1
+Added Pin To Net: NetName=NetR?_2 Pin=R?-2
+Added Pin To Net: NetName=NetR?_2 Pin=U8-5
+Added Net: Name=NetR?_2
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Class Member: Failed to add class member : Component L2 2.2uH
+Add Class Member: Failed to add class member : Component L3 2.2uH
+Add Class Member: Failed to add class member : Component L5 2.2uH
+Added Member To Class: ClassName=pwr Member=Component R? 51K 1%
+Added Member To Class: ClassName=pwr Member=Component R? 100K 1%
+Added Member To Class: ClassName=pwr Member=Component R? 100K 1%
+Added Member To Class: ClassName=pwr Member=Component R? 357K 1%
+Added Member To Class: ClassName=pwr Member=Component R? 100K 1%
+Added Member To Class: ClassName=pwr Member=Component U7 TPS56C230RJER
+Added Member To Class: ClassName=pwr Member=Component U8 TPS565201DDCR
+Added Member To Class: ClassName=pwr Member=Component U9 TPS565201DDCR
+Added Member To Class: ClassName=pwr Member=Component U10 TPS56C230RJER
+Added Member To Class: ClassName=pwr Member=Component U11 TPS565201DDCR
+Add Class Member: Failed to add class member : Component U12 VRH1052LTX
+Added Member To Class: ClassName=pwr Member=Component U13 TPS56C230RJER
+Add Class Member: Failed to add class member : Component U14 TPSPX3819M5-L-3-3

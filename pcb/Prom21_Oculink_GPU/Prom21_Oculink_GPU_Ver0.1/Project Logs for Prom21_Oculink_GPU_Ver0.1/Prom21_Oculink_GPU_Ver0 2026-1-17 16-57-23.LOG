@@ -1,0 +1,46 @@
+Added Component: Designator=L2(L0630贴片电感)
+Add component (AddParameter): Name = "BOM名称"; Value = "小功率贴片电感"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=L3(L0630贴片电感)
+Add component (AddParameter): Name = "BOM名称"; Value = "小功率贴片电感"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=L5(L0630贴片电感)
+Add component (AddParameter): Name = "BOM名称"; Value = "小功率贴片电感"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found SOT23-5
+Add Component: Footprint Not Found SOT23-5
+Add Pin To Net: Unknown Pin: Pin J2-SH1
+Add Pin To Net: Unknown Pin: Pin J2-SH2
+Add Pin To Net: Unknown Pin: Pin J2-SH3
+Add Pin To Net: Unknown Pin: Pin J2-SH4
+Add Pin To Net: Unknown Pin: Pin J3-SH1
+Add Pin To Net: Unknown Pin: Pin J3-SH2
+Add Pin To Net: Unknown Pin: Pin J3-SH3
+Add Pin To Net: Unknown Pin: Pin J3-SH4
+Add Pin To Net: Unknown Pin: Pin J4-SH1
+Add Pin To Net: Unknown Pin: Pin J4-SH2
+Add Pin To Net: Unknown Pin: Pin J4-SH3
+Add Pin To Net: Unknown Pin: Pin J4-SH4
+Added Pin To Net: NetName=NetC80_1 Pin=L2-1
+Added Pin To Net: NetName=VCC3.3V-GPU1 Pin=L2-2
+Added Pin To Net: NetName=NetC94_1 Pin=L3-1
+Added Pin To Net: NetName=VCC3.3V-GPU2 Pin=L3-2
+Added Pin To Net: NetName=NetC103_1 Pin=L5-1
+Added Pin To Net: NetName=VCC3.3V-GPU3 Pin=L5-2
+Add Pin To Net: Unknown Pin: Pin U12-1
+Add Pin To Net: Unknown Pin: Pin U12-2
+Add Pin To Net: Unknown Pin: Pin U12-3
+Add Pin To Net: Unknown Pin: Pin U12-5
+Add Pin To Net: Unknown Pin: Pin U14-1
+Add Pin To Net: Unknown Pin: Pin U14-2
+Add Pin To Net: Unknown Pin: Pin U14-3
+Add Pin To Net: Unknown Pin: Pin U14-5
+Added Member To Class: ClassName=pwr Member=Component L2 2.2uH
+Added Member To Class: ClassName=pwr Member=Component L3 2.2uH
+Added Member To Class: ClassName=pwr Member=Component L5 2.2uH
+Added Member To Class: ClassName=pwr Member=Component R94 100K 1%
+Add Class Member: Failed to add class member : Component U12 VRH1052LTX
+Add Class Member: Failed to add class member : Component U14 TPSPX3819M5-L-3-3

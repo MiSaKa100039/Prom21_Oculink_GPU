@@ -1,0 +1,201 @@
+Added Component: Designator=C142(C0805_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "材质"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=C143(C0805_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "材质"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=C144(C0603_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "材质"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=C145(C0603_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "材质"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=C146(C0603_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "材质"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=C147(C0603_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "材质"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=C148(C0402_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "材质"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=C149(C0402_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "材质"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=C150(C0402_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "材质"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=E13(CT 6*4 - R)
+Add component (AddParameter): Name = "BOM名称"; Value = "直插电解电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=E14(CT 6*4 - C)
+Add component (AddParameter): Name = "BOM名称"; Value = "直插电解电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=E15(CT 6*4 - C)
+Add component (AddParameter): Name = "BOM名称"; Value = "直插电解电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=L7(L0630贴片电感)
+Add component (AddParameter): Name = "BOM名称"; Value = "小功率贴片电感"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=R97(R0402_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=R98(R0402_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=R99(R0402_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=R100(R0402_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=R101(R0402_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=R102(R0402_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=U24(VQFN-20_L3.0-W3.0-P0.45-TL-EP_TI_RJE)
+Add component (AddParameter): Name = "AddInBom"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Channel ID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ConvertToPcb"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://www.ti.com/cn/lit/gpn/tps56c230"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "TPS56C230RJER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FootprintName"; Value = "VQFN-20_L3.0-W3.0-P0.45-TL-EP_TI_RJE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Function"; Value = "降压型"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Group ID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Input Voltage"; Value = "4.5V~18V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "扩展库"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "TPS56C230RJER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TI(德州仪器)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPart"; Value = "TPS56C230RJER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelId"; Value = "a0d54152b84047e092cea8f9e273e78e"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelName"; Value = "VQFN-20_L3.0-W3.0-P0.45-TL-EP_TI_RJE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelTransform"; Value = "118.8974,118.8974,0,0,0,0,0,0,0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Outputs"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40℃~+125℃@(TJ)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Current (Max)"; Value = "12A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Type"; Value = "可调"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Voltage"; Value = "600mV~5.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reuse Block"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "VQFN-20-EP(3x3)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SupplierPart"; Value = "C1849534"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switch tube (built-in/external)"; Value = "内置"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switching Frequency"; Value = "500kHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "TPS56C230RJER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Synchronous Rectification"; Value = "是"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Topology"; Value = "降压式"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C142-1
+Added Pin To Net: NetName=VCC12V Pin=C142-2
+Added Pin To Net: NetName=GND Pin=C143-1
+Added Pin To Net: NetName=VCC12V Pin=C143-2
+Added Pin To Net: NetName=GND Pin=C144-1
+Added Pin To Net: NetName=VCC3.3V Pin=C144-2
+Added Pin To Net: NetName=GND Pin=C145-1
+Added Pin To Net: NetName=VCC3.3V Pin=C145-2
+Added Pin To Net: NetName=GND Pin=C146-1
+Added Pin To Net: NetName=VCC3.3V Pin=C146-2
+Added Pin To Net: NetName=GND Pin=C147-1
+Added Pin To Net: NetName=VCC3.3V Pin=C147-2
+Added Pin To Net: NetName=GND Pin=C149-1
+Added Pin To Net: NetName=GND Pin=C150-1
+Added Pin To Net: NetName=VCC12V Pin=E13-1
+Added Pin To Net: NetName=GND Pin=E13-2
+Added Pin To Net: NetName=VCC3.3V Pin=E14-1
+Added Pin To Net: NetName=GND Pin=E14-2
+Added Pin To Net: NetName=VCC3.3V Pin=E15-1
+Added Pin To Net: NetName=GND Pin=E15-2
+Added Pin To Net: NetName=VCC3.3V Pin=L7-2
+Added Pin To Net: NetName=VCC3.3V Pin=R97-1
+Added Pin To Net: NetName=VCC12V Pin=R98-2
+Added Pin To Net: NetName=GND Pin=R100-1
+Added Pin To Net: NetName=GND Pin=R101-2
+Added Pin To Net: NetName=GND Pin=R102-1
+Added Pin To Net: NetName=VCC12V Pin=U24-2
+Added Pin To Net: NetName=VCC12V Pin=U24-3
+Added Pin To Net: NetName=VCC12V Pin=U24-4
+Added Pin To Net: NetName=VCC12V Pin=U24-5
+Added Pin To Net: NetName=GND Pin=U24-7
+Added Pin To Net: NetName=GND Pin=U24-8
+Added Pin To Net: NetName=GND Pin=U24-10
+Added Pin To Net: NetName=GND Pin=U24-13
+Added Pin To Net: NetName=GND Pin=U24-16
+Added Pin To Net: NetName=GND Pin=U24-18
+Added Pin To Net: NetName=GND Pin=U24-21
+Added Pin To Net: NetName=NetC148_1 Pin=C148-1
+Added Pin To Net: NetName=NetC148_1 Pin=U24-1
+Added Net: Name=NetC148_1
+Added Pin To Net: NetName=NetC148_2 Pin=C148-2
+Added Pin To Net: NetName=NetC148_2 Pin=L7-1
+Added Pin To Net: NetName=NetC148_2 Pin=U24-6
+Added Pin To Net: NetName=NetC148_2 Pin=U24-19
+Added Pin To Net: NetName=NetC148_2 Pin=U24-20
+Added Net: Name=NetC148_2
+Added Pin To Net: NetName=NetC149_2 Pin=C149-2
+Added Pin To Net: NetName=NetC149_2 Pin=U24-11
+Added Net: Name=NetC149_2
+Added Pin To Net: NetName=NetC150_2 Pin=C150-2
+Added Pin To Net: NetName=NetC150_2 Pin=R99-1
+Added Pin To Net: NetName=NetC150_2 Pin=U24-17
+Added Net: Name=NetC150_2
+Added Pin To Net: NetName=NetR97_2 Pin=R97-2
+Added Pin To Net: NetName=NetR97_2 Pin=R101-1
+Added Pin To Net: NetName=NetR97_2 Pin=U24-14
+Added Net: Name=NetR97_2
+Added Pin To Net: NetName=NetR98_1 Pin=R98-1
+Added Pin To Net: NetName=NetR98_1 Pin=R102-2
+Added Pin To Net: NetName=NetR98_1 Pin=U24-12
+Added Net: Name=NetR98_1
+Added Pin To Net: NetName=NetR99_2 Pin=R99-2
+Added Pin To Net: NetName=NetR99_2 Pin=R100-2
+Added Pin To Net: NetName=NetR99_2 Pin=U24-15
+Added Net: Name=NetR99_2
+Added Member To Class: ClassName=pwr Member=Component C142 22uF 25V
+Added Member To Class: ClassName=pwr Member=Component C143 22uF 25V
+Added Member To Class: ClassName=pwr Member=Component C144 22uF 6.3V
+Added Member To Class: ClassName=pwr Member=Component C145 22uF 6.3V
+Added Member To Class: ClassName=pwr Member=Component C146 22uF 6.3V
+Added Member To Class: ClassName=pwr Member=Component C147 22uF 6.3V
+Added Member To Class: ClassName=pwr Member=Component C148 100nF 25V
+Added Member To Class: ClassName=pwr Member=Component C149 10nF 25V
+Added Member To Class: ClassName=pwr Member=Component C150 2.2uF 25V
+Added Member To Class: ClassName=pwr Member=Component E13 100uF 25V
+Added Member To Class: ClassName=pwr Member=Component E14 220uF 6.3V
+Added Member To Class: ClassName=pwr Member=Component E15 220uF 6.3V
+Added Member To Class: ClassName=pwr Member=Component L7 8.2uH
+Added Member To Class: ClassName=pwr Member=Component R97 110K 1%
+Added Member To Class: ClassName=pwr Member=Component R98 357K 1%
+Added Member To Class: ClassName=pwr Member=Component R99 330K 1%
+Added Member To Class: ClassName=pwr Member=Component R100 15K 1%
+Added Member To Class: ClassName=pwr Member=Component R101 15K 1%
+Added Member To Class: ClassName=pwr Member=Component R102 51K 1%
+Added Member To Class: ClassName=pwr Member=Component U24 TPS56C230RJER

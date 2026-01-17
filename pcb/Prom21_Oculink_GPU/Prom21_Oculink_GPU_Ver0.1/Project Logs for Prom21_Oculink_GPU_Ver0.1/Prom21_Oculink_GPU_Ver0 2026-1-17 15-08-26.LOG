@@ -1,0 +1,228 @@
+Removed Pin From Net: NetName=USB1_IN_CC1 Pin=U15-1
+Removed Pin From Net: NetName=USB1_IN_CC2 Pin=U15-28
+Removed Pin From Net: NetName=USB1_IN_CC1 Pin=U17-1
+Removed Pin From Net: NetName=USB1_IN_CC2 Pin=U17-28
+Add Component: Footprint Not Found VQFN-20_L3.0-W3.0-P0.45-TL-EP_TI_RJE
+Add Component: Footprint Not Found TSOT-23-6_L2.9-W1.6-P0.95-LS2.8-BL
+Add Component: Footprint Not Found TSOT-23-6_L2.9-W1.6-P0.95-LS2.8-BL
+Add Component: Footprint Not Found VQFN-20_L3.0-W3.0-P0.45-TL-EP_TI_RJE
+Add Component: Footprint Not Found TSOT-23-6_L2.9-W1.6-P0.95-LS2.8-BL
+Add Component: Footprint Not Found SOT23-5
+Add Component: Footprint Not Found VQFN-20_L3.0-W3.0-P0.45-TL-EP_TI_RJE
+Add Component: Footprint Not Found SOT23-5
+Added Pin To Net: NetName=VBUS Pin=C111-2
+Added Pin To Net: NetName=VBUS Pin=C112-1
+Added Pin To Net: NetName=VBUS Pin=C117-2
+Added Pin To Net: NetName=VBUS Pin=C118-2
+Added Pin To Net: NetName=VBUS Pin=C119-2
+Added Pin To Net: NetName=VBUS Pin=C120-2
+Added Pin To Net: NetName=VBUS Pin=C122-2
+Added Pin To Net: NetName=VBUS Pin=C123-1
+Added Pin To Net: NetName=VBUS Pin=E11-1
+Added Pin To Net: NetName=VBUS Pin=E12-1
+Added Pin To Net: NetName=GND Pin=J3-A1
+Added Pin To Net: NetName=USB0_TX1_P Pin=J3-A2
+Added Pin To Net: NetName=USB0_TX1_N Pin=J3-A3
+Added Pin To Net: NetName=VBUS Pin=J3-A4
+Added Pin To Net: NetName=USB0_D_P Pin=J3-A6
+Added Pin To Net: NetName=USB0_D_N Pin=J3-A7
+Added Pin To Net: NetName=VBUS Pin=J3-A9
+Added Pin To Net: NetName=USB0_RX2_P Pin=J3-A10
+Added Pin To Net: NetName=USB0_RX2_N Pin=J3-A11
+Added Pin To Net: NetName=GND Pin=J3-A12
+Added Pin To Net: NetName=GND Pin=J3-B1
+Added Pin To Net: NetName=USB0_TX2_P Pin=J3-B2
+Added Pin To Net: NetName=USB0_TX2_N Pin=J3-B3
+Added Pin To Net: NetName=VBUS Pin=J3-B4
+Added Pin To Net: NetName=USB0_D_P Pin=J3-B6
+Added Pin To Net: NetName=USB0_D_N Pin=J3-B7
+Added Pin To Net: NetName=VBUS Pin=J3-B9
+Added Pin To Net: NetName=USB0_RX1_N Pin=J3-B10
+Added Pin To Net: NetName=USB0_RX1_P Pin=J3-B11
+Added Pin To Net: NetName=GND Pin=J3-B12
+Add Pin To Net: Unknown Pin: Pin J3-SH1
+Add Pin To Net: Unknown Pin: Pin J3-SH2
+Add Pin To Net: Unknown Pin: Pin J3-SH3
+Add Pin To Net: Unknown Pin: Pin J3-SH4
+Added Pin To Net: NetName=GND Pin=J4-A1
+Added Pin To Net: NetName=USB0_TX1_P Pin=J4-A2
+Added Pin To Net: NetName=USB0_TX1_N Pin=J4-A3
+Added Pin To Net: NetName=VBUS Pin=J4-A4
+Added Pin To Net: NetName=USB0_D_P Pin=J4-A6
+Added Pin To Net: NetName=USB0_D_N Pin=J4-A7
+Added Pin To Net: NetName=VBUS Pin=J4-A9
+Added Pin To Net: NetName=USB0_RX2_P Pin=J4-A10
+Added Pin To Net: NetName=USB0_RX2_N Pin=J4-A11
+Added Pin To Net: NetName=GND Pin=J4-A12
+Added Pin To Net: NetName=GND Pin=J4-B1
+Added Pin To Net: NetName=USB0_TX2_P Pin=J4-B2
+Added Pin To Net: NetName=USB0_TX2_N Pin=J4-B3
+Added Pin To Net: NetName=VBUS Pin=J4-B4
+Added Pin To Net: NetName=USB0_D_P Pin=J4-B6
+Added Pin To Net: NetName=USB0_D_N Pin=J4-B7
+Added Pin To Net: NetName=VBUS Pin=J4-B9
+Added Pin To Net: NetName=USB0_RX1_N Pin=J4-B10
+Added Pin To Net: NetName=USB0_RX1_P Pin=J4-B11
+Added Pin To Net: NetName=GND Pin=J4-B12
+Add Pin To Net: Unknown Pin: Pin J4-SH1
+Add Pin To Net: Unknown Pin: Pin J4-SH2
+Add Pin To Net: Unknown Pin: Pin J4-SH3
+Add Pin To Net: Unknown Pin: Pin J4-SH4
+Added Pin To Net: NetName=GND Pin=J5-A1
+Added Pin To Net: NetName=USB0_TX1_P Pin=J5-A2
+Added Pin To Net: NetName=USB0_TX1_N Pin=J5-A3
+Added Pin To Net: NetName=VBUS Pin=J5-A4
+Added Pin To Net: NetName=USB0_D_P Pin=J5-A6
+Added Pin To Net: NetName=USB0_D_N Pin=J5-A7
+Added Pin To Net: NetName=VBUS Pin=J5-A9
+Added Pin To Net: NetName=USB0_RX2_P Pin=J5-A10
+Added Pin To Net: NetName=USB0_RX2_N Pin=J5-A11
+Added Pin To Net: NetName=GND Pin=J5-A12
+Added Pin To Net: NetName=GND Pin=J5-B1
+Added Pin To Net: NetName=USB0_TX2_P Pin=J5-B2
+Added Pin To Net: NetName=USB0_TX2_N Pin=J5-B3
+Added Pin To Net: NetName=VBUS Pin=J5-B4
+Added Pin To Net: NetName=USB0_D_P Pin=J5-B6
+Added Pin To Net: NetName=USB0_D_N Pin=J5-B7
+Added Pin To Net: NetName=VBUS Pin=J5-B9
+Added Pin To Net: NetName=USB0_RX1_N Pin=J5-B10
+Added Pin To Net: NetName=USB0_RX1_P Pin=J5-B11
+Added Pin To Net: NetName=GND Pin=J5-B12
+Add Pin To Net: Unknown Pin: Pin J5-SH1
+Add Pin To Net: Unknown Pin: Pin J5-SH2
+Add Pin To Net: Unknown Pin: Pin J5-SH3
+Add Pin To Net: Unknown Pin: Pin J5-SH4
+Add Pin To Net: Unknown Pin: Pin L2-1
+Add Pin To Net: Unknown Pin: Pin L2-2
+Add Pin To Net: Unknown Pin: Pin L3-1
+Add Pin To Net: Unknown Pin: Pin L3-2
+Add Pin To Net: Unknown Pin: Pin L5-1
+Add Pin To Net: Unknown Pin: Pin L5-2
+Added Pin To Net: NetName=VBUS Pin=L6-2
+Added Pin To Net: NetName=VBUS Pin=R71-2
+Added Pin To Net: NetName=VBUS Pin=R72-1
+Added Pin To Net: NetName=VBUS Pin=R73-2
+Add Pin To Net: Unknown Pin: Pin U7-1
+Add Pin To Net: Unknown Pin: Pin U7-2
+Add Pin To Net: Unknown Pin: Pin U7-3
+Add Pin To Net: Unknown Pin: Pin U7-4
+Add Pin To Net: Unknown Pin: Pin U7-5
+Add Pin To Net: Unknown Pin: Pin U7-6
+Add Pin To Net: Unknown Pin: Pin U7-7
+Add Pin To Net: Unknown Pin: Pin U7-8
+Add Pin To Net: Unknown Pin: Pin U7-9
+Add Pin To Net: Unknown Pin: Pin U7-10
+Add Pin To Net: Unknown Pin: Pin U7-11
+Add Pin To Net: Unknown Pin: Pin U7-12
+Add Pin To Net: Unknown Pin: Pin U7-13
+Add Pin To Net: Unknown Pin: Pin U7-14
+Add Pin To Net: Unknown Pin: Pin U7-15
+Add Pin To Net: Unknown Pin: Pin U7-16
+Add Pin To Net: Unknown Pin: Pin U7-17
+Add Pin To Net: Unknown Pin: Pin U7-18
+Add Pin To Net: Unknown Pin: Pin U7-19
+Add Pin To Net: Unknown Pin: Pin U7-20
+Add Pin To Net: Unknown Pin: Pin U7-21
+Add Pin To Net: Unknown Pin: Pin U8-1
+Add Pin To Net: Unknown Pin: Pin U8-2
+Add Pin To Net: Unknown Pin: Pin U8-3
+Add Pin To Net: Unknown Pin: Pin U8-4
+Add Pin To Net: Unknown Pin: Pin U8-6
+Add Pin To Net: Unknown Pin: Pin U9-1
+Add Pin To Net: Unknown Pin: Pin U9-2
+Add Pin To Net: Unknown Pin: Pin U9-3
+Add Pin To Net: Unknown Pin: Pin U9-4
+Add Pin To Net: Unknown Pin: Pin U9-6
+Add Pin To Net: Unknown Pin: Pin U10-1
+Add Pin To Net: Unknown Pin: Pin U10-2
+Add Pin To Net: Unknown Pin: Pin U10-3
+Add Pin To Net: Unknown Pin: Pin U10-4
+Add Pin To Net: Unknown Pin: Pin U10-5
+Add Pin To Net: Unknown Pin: Pin U10-6
+Add Pin To Net: Unknown Pin: Pin U10-7
+Add Pin To Net: Unknown Pin: Pin U10-8
+Add Pin To Net: Unknown Pin: Pin U10-9
+Add Pin To Net: Unknown Pin: Pin U10-10
+Add Pin To Net: Unknown Pin: Pin U10-11
+Add Pin To Net: Unknown Pin: Pin U10-12
+Add Pin To Net: Unknown Pin: Pin U10-13
+Add Pin To Net: Unknown Pin: Pin U10-14
+Add Pin To Net: Unknown Pin: Pin U10-15
+Add Pin To Net: Unknown Pin: Pin U10-16
+Add Pin To Net: Unknown Pin: Pin U10-17
+Add Pin To Net: Unknown Pin: Pin U10-18
+Add Pin To Net: Unknown Pin: Pin U10-19
+Add Pin To Net: Unknown Pin: Pin U10-20
+Add Pin To Net: Unknown Pin: Pin U10-21
+Add Pin To Net: Unknown Pin: Pin U11-1
+Add Pin To Net: Unknown Pin: Pin U11-2
+Add Pin To Net: Unknown Pin: Pin U11-3
+Add Pin To Net: Unknown Pin: Pin U11-4
+Add Pin To Net: Unknown Pin: Pin U11-6
+Add Pin To Net: Unknown Pin: Pin U12-1
+Add Pin To Net: Unknown Pin: Pin U12-2
+Add Pin To Net: Unknown Pin: Pin U12-3
+Add Pin To Net: Unknown Pin: Pin U12-5
+Add Pin To Net: Unknown Pin: Pin U13-1
+Add Pin To Net: Unknown Pin: Pin U13-2
+Add Pin To Net: Unknown Pin: Pin U13-3
+Add Pin To Net: Unknown Pin: Pin U13-4
+Add Pin To Net: Unknown Pin: Pin U13-5
+Add Pin To Net: Unknown Pin: Pin U13-6
+Add Pin To Net: Unknown Pin: Pin U13-7
+Add Pin To Net: Unknown Pin: Pin U13-8
+Add Pin To Net: Unknown Pin: Pin U13-9
+Add Pin To Net: Unknown Pin: Pin U13-10
+Add Pin To Net: Unknown Pin: Pin U13-11
+Add Pin To Net: Unknown Pin: Pin U13-12
+Add Pin To Net: Unknown Pin: Pin U13-13
+Add Pin To Net: Unknown Pin: Pin U13-14
+Add Pin To Net: Unknown Pin: Pin U13-15
+Add Pin To Net: Unknown Pin: Pin U13-16
+Add Pin To Net: Unknown Pin: Pin U13-17
+Add Pin To Net: Unknown Pin: Pin U13-18
+Add Pin To Net: Unknown Pin: Pin U13-19
+Add Pin To Net: Unknown Pin: Pin U13-20
+Add Pin To Net: Unknown Pin: Pin U13-21
+Add Pin To Net: Unknown Pin: Pin U14-1
+Add Pin To Net: Unknown Pin: Pin U14-2
+Add Pin To Net: Unknown Pin: Pin U14-3
+Add Pin To Net: Unknown Pin: Pin U14-5
+Change Net Name : Old Net Name=VBUS New Net Name=VCC5.0V
+Change Net Color : Old Net Color=Black New Net Color=Default
+Change Net Color : Old Net Color=RGB(253, 241, 1) New Net Color=Default
+Change Net Color : Old Net Color=RGB(12, 0, 135) New Net Color=Default
+Change Net Color : Old Net Color=RGB(0, 156, 202) New Net Color=Default
+Change Net Color : Old Net Color=RGB(253, 131, 0) New Net Color=Default
+Change Net Color : Old Net Color=RGB(238, 14, 34) New Net Color=Default
+Change Net Color : Old Net Color=RGB(255, 238, 0) New Net Color=Default
+Change Net Color : Old Net Color=RGB(222, 79, 22) New Net Color=Default
+Change Net Color : Old Net Color=RGB(161, 0, 106) New Net Color=Default
+Added Pin To Net: NetName=USB0_IN_CC1 Pin=J3-A5
+Added Pin To Net: NetName=USB0_IN_CC1 Pin=J4-A5
+Added Pin To Net: NetName=USB0_IN_CC1 Pin=J5-A5
+Added Pin To Net: NetName=USB0_IN_CC1 Pin=U15-1
+Added Net: Name=USB0_IN_CC1
+Added Pin To Net: NetName=USB0_IN_CC2 Pin=J3-B5
+Added Pin To Net: NetName=USB0_IN_CC2 Pin=J4-B5
+Added Pin To Net: NetName=USB0_IN_CC2 Pin=J5-B5
+Added Pin To Net: NetName=USB0_IN_CC2 Pin=U15-28
+Added Net: Name=USB0_IN_CC2
+Added Pin To Net: NetName=USB2_IN_CC1 Pin=U17-1
+Added Net: Name=USB2_IN_CC1
+Added Pin To Net: NetName=USB2_IN_CC2 Pin=U17-28
+Added Net: Name=USB2_IN_CC2
+Add Differential Pair: Number of nets in differential pair CAP_DPE_TX7 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair DPE_RX6 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair DPE_RX9 is 1 instead of 2
+Add Class Member: Failed to add class member : Component L2 10uH
+Add Class Member: Failed to add class member : Component L3 10uH
+Add Class Member: Failed to add class member : Component L5 10uH
+Add Class Member: Failed to add class member : Component U7 TPS56C230RJER
+Add Class Member: Failed to add class member : Component U8 TPS565201DDCR
+Add Class Member: Failed to add class member : Component U9 TPS565201DDCR
+Add Class Member: Failed to add class member : Component U10 TPS56C230RJER
+Add Class Member: Failed to add class member : Component U11 TPS565201DDCR
+Add Class Member: Failed to add class member : Component U12 VRH1052LTX
+Add Class Member: Failed to add class member : Component U13 TPS56C230RJER
+Add Class Member: Failed to add class member : Component U14 TPSPX3819M5-L-3-3
